@@ -38,7 +38,7 @@ const TestNavbar = () =>{
       <div class="offcanvas-header">   
          <button class="btn-close float-end"></button>
       </div>
-      <div class=""><a class="navbar-brand d-logo" href="https://talk2lead.com/" itemprop="url" 
+      <div class=""><a class="navbar-brand d-logo" href="/" itemprop="url" 
       style={{color: "#000000", maxWidth:"200px"}}><img src="/assets/images/logo.svg" alt="logo" class="img-fluid img1"/> </a></div>
       <ul class="navbar-nav ms-auto">
          <li class="nav-item dropdown dropdown-mega position-static">

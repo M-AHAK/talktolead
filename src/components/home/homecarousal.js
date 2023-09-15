@@ -38,7 +38,7 @@ items: 1,
               <div class="banner-home-img">
                 <div class="">
                   
-                    <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/1.webp" alt="K12 Education" class="img-fluid" width="546" height="525"/> 
+                    <img fetchpriopity="high" src="assets/images/lead-generating-solutions-first-image.png" alt="lead generating solutions" class="img-fluid" width="546" height="525"/> 
                 </div>
               </div>
               <div class="banner-home-text banner-text">
@@ -48,7 +48,7 @@ items: 1,
                   <p>We help industry leaders with the most common goal among business owners is to generate leads and drive more sales.</p>
                  
                 </div>
-                <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Let's Close Deals <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                <div class="btnallTp1"> <a href="/contact-us/">Let's Close Deals <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -112,218 +112,104 @@ items: 1,
   <ul class="slick-dots" ><li class="slick-active"><button type="button" aria-current="true"><span class="slick-dot-icon" aria-hidden="true"></span><span class="slick-sr-only">Go to slide 1</span></button></li><li><button type="button"><span class="slick-dot-icon" aria-hidden="true"></span><span class="slick-sr-only">Go to slide 2</span></button></li><li><button type="button"><span class="slick-dot-icon" aria-hidden="true"></span><span class="slick-sr-only">Go to slide 3</span></button></li><li><button type="button"><span class="slick-dot-icon" aria-hidden="true"></span><span class="slick-sr-only">Go to slide 4</span></button></li></ul>
 </section>
 
-<div class="off-screen">
-  <section class="sec client-icons">
+ 
+  {/* <section class="sec client-icons">
+   <div class="container">
+      <div className="row">
+        <div className="col-md-12">
+        <div class="text-center">
+               <p>Trusted by 500+ Companies Globally</p>
+            </div> */}
+        {/* <div className="sliderClient-icon">
+         <ul>
+          <li><img src="assets/images/image14.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image13.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image12.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image11.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image10.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image9.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image8.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image7.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image6.png" className="img-fluid" alt="logo"/></li>
+          <li><img src="assets/images/image5.png" className="img-fluid" alt="logo"/></li>
+         </ul> 
+         </div> */}
+
+
+
+
+{/* 
+        </div>
+
+
+      </div>
+      </div> 
+</section>  */}
+
+<section class="sec client-icons">
    <div class="container">
       <div class="row">
          <div class="col-md-12">
             <div class="text-center">
-               <p>Trusted by 500+ Companies Globally</p>
+               <p style={{ fontWeight: 'lighter'}}>Trusted by 500+ Companies Globally  </p>
             </div>
             <div class="owl-carousel owl-theme client-slider1 owl-loaded owl-drag">
-            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 3979px'}}><div class="owl-item active" style={{width: "135.751px", marginRight: "30px"}}>
-                 <img class="owl-lazy img-fluid" alt="axaiata" src="./talk2lead home_files/axaiata.png" style={{opacity:" 1"}}/>
-               </div><div class="owl-item active" style={{width: "135.751px", marginRight: "30px"}}></div>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/dayun.png" alt="dayun" src="./talk2lead home_files/dayun.png" style={{opacity:" 1"}}/>
-              </div><div class="owl-item active" style={{width: "135.751px", marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/disco.png" alt="disco" src="./talk2lead home_files/disco.png" style={{opacity:" 1"}}/>
-              </div><div class="owl-item active" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/feiyue.png" alt="feiyue" src="./talk2lead home_files/feiyue.png" style={{opacity:" 1"}}/>
-               </div>
-               <div class="owl-item active" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/hasee.png" alt="hasee" src="./talk2lead home_files/hasee.png" style={{opacity:" 1"}}/>
-               </div>
-               <div class="owl-item active" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image3.png" alt="image3" src="./talk2lead home_files/image3.png" style={{opacity:" 1"}}/>
-               </div>
-               <div class="owl-item active" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image4.png" alt="image4" src="./talk2lead home_files/image4.png" style={{opacity:" 1"}}/>
-              </div>
-              <div class="owl-item active" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image5.png" alt="image5" src="./talk2lead home_files/image5.png" style={{opacity:" 1"}}/>
-               </div>
-               <div class="owl-item active" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image6.png" alt="image6" src="./talk2lead home_files/image6.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image7.png" alt="image7" src="./talk2lead home_files/image7.png"/>
-               </div>
-               <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image8.png" alt="image8" src="./talk2lead home_files/image8.png"/>
-               </div>
-               <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image9.png" alt="image9" src="./talk2lead home_files/image9.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image10.png" alt="image10" src="./talk2lead home_files/image10.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image11.png" alt="image11" src="./talk2lead home_files/image11.png"/>
-               </div>
-               <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image12.png" alt="image12" src="./talk2lead home_files/image12.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image13.png" alt="image13" src="./talk2lead home_files/image13.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image14.png" alt="image14" src="./talk2lead home_files/image14.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image15.png" alt="image15" src="./talk2lead home_files/image15.png"/>
-               </div>
-               <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image16.png" alt="image16" src="./talk2lead home_files/image16.png"/>
-               </div>
-               <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image17.png" alt="image17" src="./talk2lead home_files/image17.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image18.png" alt="image18" src="./talk2lead home_files/image18.png"/>
-              </div>
-              <div class="owl-item" style={{width: "135.751px", marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image19.png" alt="image19" src="./talk2lead home_files/image19.png"/>
-               </div>
-               <div class="owl-item" style={{width: '135.751px', marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image20.png" alt="image20" src="./talk2lead home_files/image20.png"/>
-               </div>
-               <div class="owl-item" style={{width: "135.751px",marginRight: "30px"}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/indofood.png" alt="indofood" src="./talk2lead home_files/indofood.png"/>
-               </div>
-               </div>
                
                
-               </div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span><span class="offscreen">Go to previous slide</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span><span class="offscreen">Go to next slide</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span><span class="offscreen">Go to slide 1</span></button><button role="button" class="owl-dot"><span></span><span class="offscreen">Go to slide 2</span></button><button role="button" class="owl-dot"><span></span><span class="offscreen">Go to slide 3</span></button></div></div>
+            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s', width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/axaiata.png" alt="axaiata" src="assets/images/axaiata.png" style={{opacity: '1'}}/>
+             </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/dayun.png" alt="dayun" src="assets/images/dayun.png" style={{opacity: '1'}}/>
+               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/disco.png" alt="disco" src="assets/images/disco.png" style={{opacity: '1'}}/>
+              </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/feiyue.png" alt="feiyue" src="assets/images/feiyue.png" style={{opacity: '1'}}/>
+               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/hasee.png" alt="hasee" src="assets/images/hasee.png" style={{opacity: '1'}}/>
+              </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image3.png" alt="image3" src="assets/images/image3.png" style={{opacity: '1'}}/>
+               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image4.png" alt="image4" src="assets/images/image4.png" style={{opacity: '1'}}/>
+               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image5.png" alt="image5" src="assets/images/image5.png" style={{opacity: '1'}}/>
+               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image6.png" alt="image6" src="assets/images/image6.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image7.png" alt="image7" src="assets/images/image7.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image8.png" alt="image8" src="assets/images/image8.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}> 
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image9.png" alt="image9" src="assets/images/image9.png"/>
+              </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image10.png" alt="image10" src="assets/images/image10.png"/>
+              </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image11.png" alt="image11" src="assets/images/image11.png"/>
+              </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image12.png" alt="image12" src="assets/images/image12.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image13.png" alt="image13" src="assets/images/image13.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image14.png" alt="image14" src="assets/images/image14.png"/>
+              </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image15.png" alt="image15" src="assets/images/image15.png"/>
+              </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image16.png" alt="image16" src="assets/images/image16.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image17.png" alt="image17" src="assets/images/image17.png"/>
+              </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image18.png" alt="image18" src="assets/images/image18.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image19.png" alt="image19" src="assets/images/image19.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image20.png" alt="image20" src="assets/images/image20.png"/>
+               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/indofood.png" alt="indofood" src="assets/images/indofood.png"/>
+               </div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
          </div>
       </div>
-      <script src="https://talk2lead.com/assets/js/slick.min.js" ></script> 
-      <script
-dangerouslySetInnerHTML={{__html:`
-var tiles = [];
-var dialog, dialogOverlay, dialogCloseButton, dialogOkButton;
-var triggeringElement;
-
-window.addEventListener('DOMContentLoaded', function (e) {
- 
-  $('.carousel').on('init', function (e, slick) {
-    tiles = document.querySelectorAll('.carousel .tile');
-
-    // Activating any tile should launch the quick view modal
-    
-  });
-
-  /**
-    Initialize Slick Slider with recommended configuration options
-  */
-  $('.carousel').slick({
-    slidesToShow: 1,
-      dots: true,
-    prevArrow: '<>
-    <button class="previous-button is-control">' +
-    '  <span class="fas fa-angle-left" aria-hidden="true"></span>' +
-    '  <span class="sr-only">Previous slide</span>' +
-    '</button></>',
-    nextArrow: '<><button class="next-button is-control">' +
-    '  <span class="fas fa-angle-right" aria-hidden="true"></span>' +
-    '  <span class="sr-only">Next slide</span>' +
-    '</button></>',
-      arrows:false,
-	  infinite: false,
-	   accessibility: true,
-	    autoplay: false,
-	   
-    responsive: [
-    {
-      breakpoint: 575,
-      settings: {
-        slidesToShow: 1 } },
-
-
-    {
-      breakpoint: 375,
-      settings: {
-        slidesToShow: 1 } }] });
-
- 
-});
- 
-function openDialog(e) {
-  e.preventDefault();
-  triggeringElement = e.target;
-  dialog.classList.remove('is-hidden');
-  dialogCloseButton.focus();
-}
-
-function closeDialog() {
-  triggeringElement.focus();
-  dialog.classList.add('is-hidden');
-}
-
-function handleDialogClicks(e) {
-  if (!dialogOverlay.contains(e.target)) {
-    closeDialog();
-  }
-}
-
-function handleDialogKeypresses(e) {
-  switch (e.key) {
-    case 'Escape':
-      closeDialog();
-      break;
-
-    case 'Tab':
-      if (e.shiftKey && document.activeElement === dialogCloseButton) {
-        e.preventDefault();
-        dialogOkButton.focus();
-      } else if (!e.shiftKey && document.activeElement === dialogOkButton) {
-        e.preventDefault();
-        dialogCloseButton.focus();
-      }
-
-      break;}
-
-} 
-
-
-
-      
-         $('.indus-slider').owlCarousel({ 
-            loop:true,  
-           animateOut: 'slideOutDown',
-            animateIn: 'flipInX',
-         navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'], 
-         nav:false, 
-            margin:0, 
-         dots: true,  
-            responsiveClass:true, 
-          smartSpeed:0,
-         autoplay:false,   
-         //    autoplayHoverPause:true, 
-            responsive:{ 
-                0:{ 
-                    items:1, 
-                    nav:false 
-                }, 
-                600:{ 
-                    items:1, 
-                    nav:false 
-                }, 
-                1000:{ 
-                    items:1, 
-                    nav:false, 
-                } 
-            } 
-         })
-          
-     
-   
-`}}
->
-</script>
-</section>
-</div>
-
-
+   </div>
+</section> 	  
+	 
 
 <section class="sec testimonail-sec">
     <div class="container-fluid">
@@ -351,7 +237,7 @@ function handleDialogKeypresses(e) {
                        <li class="mnialdgnation">Marketing Director</li>
                        <li class="mnialclien-img"> 
 					   
-<img fetchpriopity="high" src="./talk2lead home_files/image1.png" alt="image1" class="img-fluid" width="480" height="270"/>
+<img fetchpriopity="high" src="assets/images/image1.png" alt="image1" class="img-fluid" width="480" height="270"/>
 
 					   </li>
                       </ul>
@@ -370,7 +256,7 @@ function handleDialogKeypresses(e) {
                        <li class="mnialname">Martin Luther </li>
                        <li class="mnialdgnation">Sales Manager </li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image2.png" class="img-fluid" alt="image2" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image2.png" class="img-fluid" alt="image2" width="124" height="39"/>
 </li> 
                       </ul>
               </div>
@@ -388,7 +274,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Julie Smith </li>
                        <li class="mnialdgnation">Head of Marketing </li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image3.png" class="img-fluid" alt="Polo" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image3.png" class="img-fluid" alt="Polo" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -406,7 +292,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Maria </li>
                        <li class="mnialdgnation">Marketing President</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image4.png" class="img-fluid" alt="image4" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image4.png" class="img-fluid" alt="image4" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -424,7 +310,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Rosia   </li>
                        <li class="mnialdgnation">Sales Manager </li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image5.png" class="img-fluid" alt="toto" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image5.png" class="img-fluid" alt="toto" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -442,7 +328,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Willson James  </li>
                        <li class="mnialdgnation">Head of Marketing Department </li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image6.png" class="img-fluid" alt="sagawa" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image6.png" class="img-fluid" alt="sagawa" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -460,7 +346,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Lauren John  </li>
                        <li class="mnialdgnation">Senior Manager Sales</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image7.png" class="img-fluid" alt="calbee" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image7.png" class="img-fluid" alt="calbee" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -478,7 +364,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Cassandra Smith </li>
                        <li class="mnialdgnation">Senior Manager Marketing</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image8.png" class="img-fluid" alt="richo" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image8.png" class="img-fluid" alt="richo" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -496,7 +382,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Samuel Martin  </li>
                        <li class="mnialdgnation">Senior Director Sales</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image9.png" class="img-fluid" alt="omrom" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image9.png" class="img-fluid" alt="omrom" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -514,7 +400,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Swiss Johnson </li>
                        <li class="mnialdgnation">Director</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image10.png" class="img-fluid" alt="terumo" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image10.png" class="img-fluid" alt="terumo" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -532,7 +418,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Smith </li>
                        <li class="mnialdgnation">Sales Head </li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image11.png" class="img-fluid" alt="meiji" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image11.png" class="img-fluid" alt="meiji" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -550,7 +436,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Alexandra </li>
                        <li class="mnialdgnation">Marketing Team Lead</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image12.png" class="img-fluid" alt="nec" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image12.png" class="img-fluid" alt="nec" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -568,7 +454,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Martin White  </li>
                        <li class="mnialdgnation">Marketing Strategist</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image13.png" class="img-fluid" alt="denso" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image13.png" class="img-fluid" alt="denso" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -586,7 +472,7 @@ function handleDialogKeypresses(e) {
                    <li class="mnialname">Thomas Smith </li>
                        <li class="mnialdgnation">Marketing Director</li> 
                        <li class="mnialclien-img">
-<img fetchpriopity="high" src="./talk2lead home_files/image14.png" class="img-fluid" alt="kirin" width="124" height="39"/>
+<img fetchpriopity="high" src="assets/images/image14.png" class="img-fluid" alt="kirin" width="124" height="39"/>
 </li> 
                 </ul>
               </div>
@@ -594,7 +480,7 @@ function handleDialogKeypresses(e) {
          <div class="" id="counter"></div>
         </div>
         <div class="col-md-12 text-center">
-          <div class="btnallTp1 btnallTpW1 pt-5"><a href="https://talk2lead.com/testimonial/">View All <i class="mdi mdi-arrow-bottom-right"></i></a></div>
+          <div class="btnallTp1 btnallTpW1 pt-5"><a href="/testimonial/">View All <i class="mdi mdi-arrow-bottom-right"></i></a></div>
         </div>
       </div>
     </div>
@@ -606,7 +492,10 @@ function handleDialogKeypresses(e) {
       <div class="row">
         <div class="col-md-12">
           <div class="whowearebg">
+
             <div class="whowearebg1">
+
+
               <div class="who-we-arebg">
                 <div class="who-we-areText whowe1">
                   <div class="who-we-are-sub">Who are we? </div>
@@ -614,28 +503,37 @@ function handleDialogKeypresses(e) {
                     <h2>We find paying customers for your business. </h2>
                     <p>With a relentless focus on helping industry leaders achieve their sales and revenue goals, we specialize in driving results through a spectrum of non-conventional strategies. From B2B lead generation that streamlines your sales process to boosting website traffic and conversions through SEO and social media optimization, we're here to amplify your success. Our tailored approach ensures you connect with the right audience and witness unparalleled growth. Let's embark on a journey of higher sales, increased leads, and enhanced brand presence together.  </p>
                   </div>
-                  <div class=""><a href=" ">Explore More..</a></div>
+                  <div class=""><a href="/about-us/">Explore More..</a></div>
                 </div>
                 <div class="who-we-are-video">
                   <div class="video-thumbnailbg">
                     <div class="imgblr"></div>
-                    
+
+{/*                     
                                  <div class="videotitlebg">
                                     <div class="videotitle">A Decadal Experience</div>
                                     <div class="videodirector">HR Director</div>
-                                 </div>
+                                 </div> */}
 
                   </div>
                 </div>
               </div>
+
+            
+
             </div>
+
+            
+
             <div class="whowearebg2">
               <div class="who-we-arebg we-arebg2">
                 <div class="who-we-areText whowe2">
                   <div class="million-bg">
                     <div class="million-img">
+
+                    
                       
-                        <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/who-we-are/millon-images.webp" class="img-fluid" alt="Happy Worldwide Clients"  width="268" height="57"/> 
+                        <img fetchpriopity="high" src="assets/images/millon-images.webp" class="img-fluid" alt="Happy Worldwide Clients"  width="268" height="57"/> 
                     </div>
                     <div class="million-text">
                       <div class="million-1milon">500 + <span>Happy Clients Worldwide</span></div>
@@ -645,7 +543,7 @@ function handleDialogKeypresses(e) {
                 <div class="who-we-are-video">
                   <div class="video-thumbnailbg">
                     
-                      <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/who-we-are/year-experience.webp" class="img-fluid" alt="10+ years of experience - talk2lead" width="346" height="109"/>
+                      <img fetchpriopity="high" src="assets/images/year-experience.webp" class="img-fluid" alt="10+ years of experience - talk2lead" width="346" height="109"/>
                   </div>
                 </div>
               </div>
@@ -697,12 +595,12 @@ function handleDialogKeypresses(e) {
                         <div class="h2same">Get paying customers for your business </div>
                         <p>Unlocking a stream of paying customers for your business with our B2B lead generation solutions. We specialize in connecting you with the right prospects, streamlining your sales process, and ensuring that every interaction counts. Say goodbye to cold calls and hello to a steady flow of interested and potential clients ready to fuel your growth. </p>
                         <ul>
-                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Education</a> </li>
-                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Travel &amp; Hospitality</a> </li>
-                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Technology Marketplace</a> </li>
-                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Healthcare</a> </li> 
+                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="/lead-generation/education/">Education</a> </li>
+                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="/lead-generation/travel-and-hospitality/">Travel &amp; Hospitality</a> </li>
+                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="/lead-generation/technology-marketplace/">Technology Marketplace</a> </li>
+                          <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="/lead-generation/healthcare/">Healthcare</a> </li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                       </div>
                     </div>
                   </div>
@@ -722,7 +620,7 @@ function handleDialogKeypresses(e) {
                           <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Technology Marketplace</a> </li>
                           <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Healthcare</a> </li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                       </div>
                     </div>
                   </div>
@@ -742,7 +640,7 @@ function handleDialogKeypresses(e) {
                           <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Technology Marketplace</a> </li>
                           <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Healthcare</a> </li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                       </div>
                     </div>
                   </div>
@@ -761,7 +659,7 @@ function handleDialogKeypresses(e) {
                           <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Technology Marketplace</a> </li>
                           <li><span><i class="mdi mdi-arrow-top-right"></i></span> <a href="#">Healthcare</a> </li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                       </div>
                     </div>
                   </div>
@@ -790,10 +688,10 @@ function handleDialogKeypresses(e) {
               <div class="industries-step industries-step1">
                 <div class="industries-img"><span>
                   
-                    <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/industries-we-serve/education.webp" class="img-fluid" alt="eLearning Solutions for K12 Education" width="212" height="242"/> 
+                    <img fetchpriopity="high" src="assets/images/education.webp" class="img-fluid" alt="eLearning Solutions for K12 Education" width="212" height="242"/> 
                   </span></div>
                 <div class="industries-text">
-                  <h3><a href="https://talk2lead.com/k12/">Education </a></h3>
+                  <h3><a href="/">Education </a></h3>
                   <p>Empower your journey in Education and our marketing prowess. Our tailored solutions in lead generation, SEO, social media optimization, and PPC are strategically aligned to fuel growth and reach for educational institutions and service providers.  </p>
                       {/* <div class="btnsbtback"><a href="https://talk2lead.com/k12/">Readmore...</a></div> */}
                 </div>
@@ -801,10 +699,10 @@ function handleDialogKeypresses(e) {
               <div class="industries-step industries-step2">
                 <div class="industries-img"><span>
                  
-                    <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/industries-we-serve/travel-hospitality.webp" class="img-fluid" alt="eLearning Solutions for College and Universities" width="212" height="241"/>
+                    <img fetchpriopity="high" src="assets/images/travel-hospitality.webp" class="img-fluid" alt="eLearning Solutions for College and Universities" width="212" height="241"/>
                   </span></div>
                 <div class="industries-text">
-                  <h3><a href="https://talk2lead.com/higher-education/">Travel & Hospitality </a></h3>
+                  <h3><a href="/">Travel & Hospitality </a></h3>
                   <p>Elevate the Travel & Hospitality industry's digital strategies. Our comprehensive suite of services, from B2B lead generation to SEO and social media optimization, is geared towards expanding your outreach and enhancing customer engagement. </p>
                 {/* <div class="btnsbtback"><a href="https://talk2lead.com/higher-education/">Readmore...</a></div> */}
                 </div>
@@ -812,10 +710,10 @@ function handleDialogKeypresses(e) {
               <div class="industries-step industries-step3">
                 <div class="industries-img"><span>
                   
-                    <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/industries-we-serve/technology-marketplace.webp" class="img-fluid" alt="eLearning Solutions for EdTech Companies"  width="212" height="241"/>
+                    <img fetchpriopity="high" src="assets/images/technology-marketplace.webp" class="img-fluid" alt="eLearning Solutions for EdTech Companies"  width="212" height="241"/>
                   </span></div>
                 <div class="industries-text">
-                  <h3>Technology Marketplace </h3>
+                  <h3>  <a href= "/"></a>  Technology Marketplace </h3>
                   <p>Thrive in the fast-paced Technology Marketplace with marketing expertise. Our integrated solutions, spanning lead generation to SEO and social media optimization, are crafted to enhance your visibility, drive sales, and establish industry dominance. </p>
                                        {/* <div class="btnsbtback"><a href="#">Readmore...</a></div> */}
                 </div>
@@ -823,10 +721,10 @@ function handleDialogKeypresses(e) {
               <div class="industries-step industries-step4">
                 <div class="industries-img"><span>
                   
-                    <img fetchpriopity="high" src="https://talk2lead.com/assets/images/homepage/industries-we-serve/healthcare.webp" class="img-fluid" alt="eLearning Solutions for Publishers"  width="212" height="241"/> 
+                    <img fetchpriopity="high" src="assets/images/healthcare.webp" class="img-fluid" alt="eLearning Solutions for Publishers"  width="212" height="241"/> 
                   </span></div>
                 <div class="industries-text">
-                  <h3>Healthcare </h3>
+                  <h3>  <a href= "/"></a>Healthcare </h3>
                   <p>Navigate the Healthcare landscape with our strategic digital solutions. From B2B lead generation to SEO and social media optimization, our services are meticulously designed to help you reach wider audiences, drive conversions, and foster lasting patient relationships </p>
                                           {/* <div class="btnsbtback"><a href="#">Readmore...</a></div> */}
                 </div>
@@ -841,6 +739,34 @@ function handleDialogKeypresses(e) {
   
 
 
+
+
+
+
+  <div class="modal fade" id="renee-boh" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body"> </div>
+    </div>
+  </div>
+</div>
+<section class="sec pt-0 s-reviewbg">
+   <div class="container">
+   <div class="row">
+      <div class="col-md-12">
+         <div class="text-center s-review">
+            <ul class="pt-0">
+               <li><img src="assets/images/trustpilot-review-icon.webp" class="img-fluid" alt="Trustpilot Rating"/></li>
+               <li><img src="assets/images/google-review-icon.webp" class="img-fluid" alt="Google Review and Rating"/></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+   </div>
+</section>
 
         </>
     )

@@ -19,7 +19,7 @@ const Testabout = () =>{
             </div>
             <div class="col-md-12 breadcrum">
                <div class=""> 
-                    <p> <a href="https://www.talk2lead.com/"> Home</a>  <i class="fas fa-arrow-right"></i> <span>About Us</span> </p>
+                    <p> <a href="/"> Home</a>  <i class="fas fa-arrow-right"></i> <span>About Us</span> </p>
                </div>
             </div>
         </div>
@@ -40,7 +40,7 @@ const Testabout = () =>{
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-5 offset-md-1">
-                <img src="./About Us _ talk2lead_files/expertise.png" class="img-fluid" alt="use cases Assessment Development Services"/>
+                <img src="assets/images/expertise.png" class="img-fluid" alt="use cases Assessment Development Services"/>
             </div>            
             <div class="col-md-5">
                 <h3>Who are we? </h3>
@@ -60,7 +60,7 @@ const Testabout = () =>{
             <div class="col-md-6">
                 <div class="d-flex">
                     <div class="type-icon">
-                        <img src="./About Us _ talk2lead_files/service-1.png" class="img-fluid" alt="Substantive Editing Copye diting Services"/>
+                        <img src="assets/images/service-1.png" class="img-fluid" alt="Substantive Editing Copye diting Services"/>
                     </div>
                     <div class="type-text">
                         <h5>Leads Generated </h5>
@@ -71,7 +71,7 @@ const Testabout = () =>{
             <div class="col-md-6">
                 <div class="d-flex">
                     <div class="type-icon">
-                        <img src="./About Us _ talk2lead_files/service-2.png" class="img-fluid" alt="Content Editing k12 Copy editing service"/>
+                        <img src="assets/images/service-2.png" class="img-fluid" alt="Content Editing k12 Copy editing service"/>
                     </div>
                     <div class="type-text">
                         <h5>Sales Boost </h5>
@@ -82,7 +82,7 @@ const Testabout = () =>{
             <div class="col-md-6">
                 <div class="d-flex">
                     <div class="type-icon">
-                        <img src="./About Us _ talk2lead_files/service-3.png" class="img-fluid" alt="Proofreading copy editing services"/>
+                        <img src="assets/images/service-3.png" class="img-fluid" alt="Proofreading copy editing services"/>
                     </div>
                     <div class="type-text">
                         <h5>SEO Success: </h5>
@@ -93,7 +93,7 @@ const Testabout = () =>{
             <div class="col-md-6">
                 <div class="d-flex">
                     <div class="type-icon">
-                        <img src="./About Us _ talk2lead_files/service-4.png" class="img-fluid" alt="Semantic Analysis copyediting service "/>
+                        <img src="assets/images/service-4.png" class="img-fluid" alt="Semantic Analysis copyediting service "/>
                     </div>
                     <div class="type-text">
                         <h5>Social Media Engagement </h5>
@@ -104,7 +104,7 @@ const Testabout = () =>{
             <div class="col-md-6">
                 <div class="d-flex">
                     <div class="type-icon">
-                        <img src="./About Us _ talk2lead_files/service-5.png" class="img-fluid" alt="Proofreading copy editing services"/>
+                        <img src="assets/images/service-5.png" class="img-fluid" alt="Proofreading copy editing services"/>
                     </div>
                     <div class="type-text">
                         <h5>PPC Conversions </h5>
@@ -115,7 +115,7 @@ const Testabout = () =>{
             <div class="col-md-6">
                 <div class="d-flex">
                     <div class="type-icon">
-                        <img src="./About Us _ talk2lead_files/service-6.png" class="img-fluid" alt="Semantic Analysis copyediting service "/>
+                        <img src="assets/images/service-6.png" class="img-fluid" alt="Semantic Analysis copyediting service "/>
                     </div>
                     <div class="type-text">
                         <h5>Website Traffic Growth </h5>
@@ -138,25 +138,25 @@ const Testabout = () =>{
                <div class="col-md-12"> 
                 <div class="whatmakesbgNw">
                 <div class="whatmakestext">
-                           <h3><span><img src="./About Us _ talk2lead_files/customized-solutions.svg" class="img-fluid" alt="Customized Solutions for PDF" width="31" height="31"/></span>B2B Lead Generation </h3>
+                           <h3><span><img src="assets/images/customized-solutions.svg" class="img-fluid" alt="Customized Solutions for PDF" width="31" height="31"/></span>B2B Lead Generation </h3>
                            <p>We understand the significance of meaningful connections. Our B2B lead generation services empower your business to engage directly with potential customers, eliminating unnecessary outreach and ensuring valuable interactions that close more sales deals. </p>
                         </div>
                  <div class="whatmakestext">
-                           <h3><span><img src="./About Us _ talk2lead_files/ada-compliance.svg" class="img-fluid" alt="ADA/508 Compliance for PDF" width="31" height="37"/></span>  SEO Excellence </h3>
+                           <h3><span><img src="assets/images/ada-compliance.svg" class="img-fluid" alt="ADA/508 Compliance for PDF" width="31" height="37"/></span>  SEO Excellence </h3>
                            <p>Rise above the competition and secure top rankings in search results. Our SEO strategies harness the power of algorithms to position your business at the forefront of online visibility, driving organic traffic and boosting conversions. </p>
                         </div>
                  <div class="whatmakestext">
-                           <h3><span><img src="./About Us _ talk2lead_files/client-support.svg" class="img-fluid" alt="Client Support for PDF" width="34" height="30"/></span> Social Media Mastery </h3>
+                           <h3><span><img src="assets/images/client-support.svg" class="img-fluid" alt="Client Support for PDF" width="34" height="30"/></span> Social Media Mastery </h3>
                            <p>Expand your online footprint and foster authentic relationships across social platforms. Our social media marketing endeavors increase your brand's reach, engagement, and credibility, leading to increased footprints and brand loyalty.  </p>
                         </div>
                  <div class="whatmakestext">
-                           <h3><span><img src="./About Us _ talk2lead_files/expert-team.svg" class="img-fluid" alt="Expert Team for PDF" width="33" height="33"/></span> PPC Precision </h3>
+                           <h3><span><img src="assets/images/expert-team.svg" class="img-fluid" alt="Expert Team for PDF" width="33" height="33"/></span> PPC Precision </h3>
                            <p>Harness the potential of pay-per-click advertising beyond brand recognition. Our PPC campaigns are meticulously designed to cater to brand exposure, lead generation, content downloads, contests, newsletter sign-ups, website traffic, and conversion optimization. </p>
                         </div> 
                 
                 </div>
                 
-                  <div class="btnallTp1 mt-5 text-center"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                  <div class="btnallTp1 mt-5 text-center"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                </div>
             </div>
          </div>
@@ -171,35 +171,35 @@ const Testabout = () =>{
                   </div>
                   <div class="specialbg">
                      <div class="special step1">
-                        <span><img src="./About Us _ talk2lead_files/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
+                        <span><img src="assets/images/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
                         <div class="tre3">Eliminate Lead Waste   </div>
                      </div>
                      <div class="special step2">
-                        <span><img src="./About Us _ talk2lead_files/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
+                        <span><img src="assets/images/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
                         <div class="tre3">Achieve a 100% Respect Rate </div>
                      </div>
                      <div class="special step3">
-                        <span><img src="./About Us _ talk2lead_files/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
+                        <span><img src="assets/images/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
                         <div class="tre3">Plug-and-play service with zero manual effort </div>
                      </div>
                      <div class="special step4">
-                        <span><img src="./About Us _ talk2lead_files/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
+                        <span><img src="assets/images/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
                         <div class="tre3">Rapid Speed-to-Lead  </div>
                      </div>
                      <div class="special step5">
-                        <span><img src="./About Us _ talk2lead_files/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
+                        <span><img src="assets/images/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
                         <div class="tre3">Double Your Pipeline Growth  </div>
                      </div>
                      <div class="special step6">
-                        <span><img src="./About Us _ talk2lead_files/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
+                        <span><img src="assets/images/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
                         <div class="tre3">Monitor Activity and Goals </div>
                      </div>
                      <div class="special step7">
-                        <span><img src="./About Us _ talk2lead_files/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
+                        <span><img src="assets/images/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
                         <div class="tre3">Swift Implementation </div>
                      </div>
                      <div class="special step8">
-                        <span><img src="./About Us _ talk2lead_files/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
+                        <span><img src="assets/images/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
                         <div class="tre3">Boost Productivity Tenfold</div>
                      </div>
                   </div>
@@ -265,24 +265,24 @@ const Testabout = () =>{
             <div class="col-md-12">
                 <div class="row justify-content-center csr-img">
                     <div class="col-md-3 text-center">
-                        <img src="./About Us _ talk2lead_files/for-employee.png" class="img-fluid" alt="for employee talk2lead Corporate Social Responsibility"/>
+                        <img src="assets/images/for-employee.png" class="img-fluid" alt="for employee talk2lead Corporate Social Responsibility"/>
                         <h4 class="mb-2 mt-4">For Employees</h4>
                         <p>Employees prefer working for an organization that has a good public image, gets positive reviews from media companies, and is engaged in social responsibility as a profitable entity.
 </p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <img src="./About Us _ talk2lead_files/For-Society.png" class="img-fluid" alt="For Society talk2lead Corporate Social Responsibility"/>
+                        <img src="assets/images/For-Society.png" class="img-fluid" alt="For Society talk2lead Corporate Social Responsibility"/>
                         <h4 class="mb-2 mt-4">For Society</h4>
                         <p>CSR is a process of finding and giving solutions to everyday issues in society. It is a practical and conscious way to give back to society what we taken in from it.
 </p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <img src="./About Us _ talk2lead_files/For-Businesses.png" class="img-fluid" alt="For Businesses talk2lead Corporate Social Responsibility"/>
+                        <img src="assets/images/For-Businesses.png" class="img-fluid" alt="For Businesses talk2lead Corporate Social Responsibility"/>
                         <h4 class="mb-2 mt-4">For Businesses</h4>
                         <p>An organization taking on CSR has a positive impact on society and earns a good reputation among competitors and customers. </p>
                     </div>
                     <div class="col-md-3 text-center">
-                        <img src="./About Us _ talk2lead_files/Supporting-NGOs.png" class="img-fluid" alt="Supporting NGOs talk2lead Corporate Social Responsibility"/>
+                        <img src="assets/images/Supporting-NGOs.png" class="img-fluid" alt="Supporting NGOs talk2lead Corporate Social Responsibility"/>
                         <h4 class="mb-2 mt-4">Supporting NGOs</h4>
                         <p>Corporate company funding to not-for-profit organizations contributes to social welfare. The funding can be made to domestic or international NGOs.
 </p>
@@ -306,7 +306,7 @@ const Testabout = () =>{
  </p>
             </div>
             <div class="col-md-5 offset-md-1 text-center">
-                <img src="./About Us _ talk2lead_files/img-3.png" class="img-fluid" alt="img 3 Subject Matter Experts"/>
+                <img src="assets/images/img-3.png" class="img-fluid" alt="img 3 Subject Matter Experts"/>
             </div>
             <div class="col-md-5">  
                 <h4 class="mb-2">Our Efforts and Campaign</h4>

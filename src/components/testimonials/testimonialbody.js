@@ -15,7 +15,7 @@ const Testbody = () =>{
                         <div class="mnialname">Sam Josh</div>
                        <div class="mnialdgnation">Marketing Director</div>
                       </div>
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image1.png" class="img-fluid" alt="Sharp"/> </div>
+                     <div class="mnialclien-img"><img src="/assets/images/image1.png" class="img-fluid" alt="Sharp"/> </div>
                        </div>
                    </div>
                </div> 
@@ -32,7 +32,7 @@ const Testbody = () =>{
                         <div class="mnialname">Martin Luther</div>
                       <div class="mnialdgnation">Sales Manager</div>
                       </div>
-               <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image2.png" class="img-fluid" alt="Lion"/></div>
+               <div class="mnialclien-img"><img src="/assets/images/image2.png" class="img-fluid" alt="Lion"/></div>
                        </div>
                    </div>
                </div> 
@@ -49,7 +49,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Julie Smith</div>
                     <div class="mnialdgnation">Head of Marketing </div>
                       </div>
-              <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image3.png" class="img-fluid" alt="mercari"/> </div>
+              <div class="mnialclien-img"><img src="/assets/images/image3.png" class="img-fluid" alt="mercari"/> </div>
                        </div>
                    </div>
                </div> 
@@ -66,7 +66,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Maria</div>
                     <div class="mnialdgnation">Marketing President</div>
                       </div>
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image4.png" class="img-fluid" alt="Pola"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/image4.png" class="img-fluid" alt="Pola"/></div>
                        </div>
                    </div>
                </div> 
@@ -83,7 +83,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Rosia</div>
                      <div class="mnialdgnation">Sales Manager</div>
                       </div>
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image5.png" class="img-fluid" alt="Sagawa"/> </div>
+                     <div class="mnialclien-img"><img src="/assets/images/image5.png" class="img-fluid" alt="Sagawa"/> </div>
                        </div>
                    </div>
                </div> 
@@ -100,7 +100,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Willson James  </div>
                      <div class="mnialdgnation">Head of Marketing Department</div>
                       </div>
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image6.png" class="img-fluid" alt="Toto"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/image6.png" class="img-fluid" alt="Toto"/></div>
                        </div>
                    </div>
                </div> 
@@ -117,7 +117,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Lauren John </div>
                        <div class="mnialdgnation">Senior Manager Sales </div>
                       </div>
-          <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image7.png" class="img-fluid" alt="Calbee"/></div>
+          <div class="mnialclien-img"><img src="/assets/images/image7.png" class="img-fluid" alt="Calbee"/></div>
                        </div>
                    </div>
                </div> 
@@ -134,7 +134,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Cassandra Smith</div>
                       <div class="mnialdgnation">Senior Manager Marketing</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image8.png" class="img-fluid" alt="Ricoh"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/image8.png" class="img-fluid" alt="Ricoh"/></div>
                        </div>
                    </div>
                </div> 
@@ -151,7 +151,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Samuel Martin </div>
                      <div class="mnialdgnation">Senior Director Sales</div>
                       </div> 
-               <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image9.png" class="img-fluid" alt="Omron"/></div>
+               <div class="mnialclien-img"><img src="/assets/images/image9.png" class="img-fluid" alt="Omron"/></div>
                        </div>
                    </div>
                </div> 
@@ -170,7 +170,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Swiss Johnson</div>
                       <div class="mnialdgnation">Director</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image10.png" class="img-fluid" alt="Terumo"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/image10.png" class="img-fluid" alt="Terumo"/></div>
                        </div>
                    </div>
                </div> 
@@ -187,7 +187,7 @@ const Testbody = () =>{
                         <div class="mnialname">Smith</div>
                      <div class="mnialdgnation">Sales Head</div>
                       </div> 
-                 <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image11.png" class="img-fluid" alt="Meiji"/></div>
+                 <div class="mnialclien-img"><img src="/assets/images/image11.png" class="img-fluid" alt="Meiji"/></div>
                        </div>
                    </div>
                </div> 
@@ -204,7 +204,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Alexandra</div>
                       <div class="mnialdgnation">Marketing Team Lead</div>
                       </div> 
-             <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image12.png" class="img-fluid" alt="Nec"/></div>
+             <div class="mnialclien-img"><img src="/assets/images/image12.png" class="img-fluid" alt="Nec"/></div>
                        </div>
                    </div>
                </div> 
@@ -221,7 +221,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Martin White </div>
                       <div class="mnialdgnation">Marketing Strategist</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image13.png" class="img-fluid" alt="Denso"/> </div>
+                  <div class="mnialclien-img"><img src="/assets/images/image13.png" class="img-fluid" alt="Denso"/> </div>
                        </div>
                    </div>
                </div> 
@@ -238,7 +238,7 @@ const Testbody = () =>{
                        <div class="mnialname"> Thomas Smith</div>
                      <div class="mnialdgnation">Marketing Director</div> 
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image14.png" class="img-fluid" alt="Kirin"/> </div>
+                    <div class="mnialclien-img"><img src="/assets/images/image14.png" class="img-fluid" alt="Kirin"/> </div>
                    </div>
                </div> 
                    </div>
@@ -255,7 +255,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Wilson Johnson </div>
                       <div class="mnialdgnation">Head of Department</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image15.png" class="img-fluid" alt="Mufg"/>  </div>
+                    <div class="mnialclien-img"><img src="/assets/images/image15.png" class="img-fluid" alt="Mufg"/> </div>
                        </div>
                    </div>
                </div> 
@@ -272,7 +272,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Anderson </div>
                      <div class="mnialdgnation">Director</div>
                       </div> 
-                <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image16.png" class="img-fluid" alt="Seiko"/></div>
+                <div class="mnialclien-img"><img src="/assets/images/image16.png" class="img-fluid" alt="Seiko"/></div>
                        </div>
                    </div>
                </div> 
@@ -289,7 +289,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Martin White </div>
                      <div class="mnialdgnation">Founder and CEO</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image17.png" class="img-fluid" alt="Nikkei"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/image17.png" class="img-fluid" alt="Nikkei"/></div>
                        </div>
                    </div>
                </div> 
@@ -306,7 +306,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Evans Moore  </div>
                       <div class="mnialdgnation">Director of Marketing</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image18.png" class="img-fluid" alt="Finc"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/image18.png" class="img-fluid" alt="Finc"/></div>
                        </div>
                    </div>
                </div> 
@@ -323,7 +323,7 @@ const Testbody = () =>{
                         <div class="mnialname">Clark Smith</div>
                       <div class="mnialdgnation">Marketing Head</div>
                       </div> 
-                 <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image19.png" class="img-fluid" alt="Dem"/></div>
+                 <div class="mnialclien-img"><img src="/assets/images/image19.png" class="img-fluid" alt="Dem"/></div>
                        </div>
                    </div>
                </div> 
@@ -340,7 +340,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Harris Smith</div>
                       <div class="mnialdgnation">Sales Director</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/image20.png" class="img-fluid" alt="Akiqo"/> </div>
+                   <div class="mnialclien-img"><img src="/assets/images/image20.png" class="img-fluid" alt="Akiqo"/> </div>
                        </div>
                    </div>
                </div> 
@@ -358,7 +358,7 @@ const Testbody = () =>{
                         <div class="mnialname">Robinson</div>
                       <div class="mnialdgnation">Marketing Manager</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/indofood.png" class="img-fluid" alt="Indofood"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/indofood.png" class="img-fluid" alt="Indofood"/></div>
                        </div>
                    </div>
                </div> 
@@ -375,7 +375,7 @@ const Testbody = () =>{
                         <div class="mnialname"> William James</div>
                      <div class="mnialdgnation">Director</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/jasa-marga.png" class="img-fluid" alt="Jasa Marga"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/jasa-marga.png" class="img-fluid" alt="Jasa Marga"/></div>
                        </div>
                    </div>
                </div> 
@@ -392,7 +392,7 @@ const Testbody = () =>{
                         <div class="mnialname">Wilson Thomas </div>
                      <div class="mnialdgnation">Sales Head</div>
                       </div> 
-                 <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/pakuwon-jati.png" class="img-fluid" alt="Pakuwon Jati"/></div>
+                 <div class="mnialclien-img"><img src="/assets/images/pakuwon-jati.png" class="img-fluid" alt="Pakuwon Jati"/></div>
                        </div>
                    </div>
                </div> 
@@ -409,7 +409,7 @@ const Testbody = () =>{
                         <div class="mnialname">Thomas Anderson </div>
                     <div class="mnialdgnation">Manager Sales</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/pp-properti.png" class="img-fluid" alt="PP properti"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/pp-properti.png" class="img-fluid" alt="PP properti"/></div>
                        </div>
                    </div>
                </div> 
@@ -426,7 +426,7 @@ const Testbody = () =>{
                         <div class="mnialname">Emma Martin</div>
                     <div class="mnialdgnation">Senior Director Marketing</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/sat-nusapersada.png" class="img-fluid" alt="Sat Nusapersada"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/sat-nusapersada.png" class="img-fluid" alt="Sat Nusapersada"/></div>
                        </div>
                    </div>
                </div> 
@@ -443,7 +443,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Benjamin</div>
                      <div class="mnialdgnation">Senior Manager Sales</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/sritex.png" class="img-fluid" alt="Sritex"/> </div>
+                  <div class="mnialclien-img"><img src="/assets/images/sritex.png" class="img-fluid" alt="Sritex"/> </div>
                        </div>
                    </div>
                </div> 
@@ -460,7 +460,7 @@ const Testbody = () =>{
                         <div class="mnialname">James Davis</div>
                       <div class="mnialdgnation">Director</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/summarecon-agung.png" class="img-fluid" alt="Summarecon Agung"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/summarecon-agung.png" class="img-fluid" alt="Summarecon Agung"/></div>
                        </div>
                    </div>
                </div> 
@@ -477,7 +477,7 @@ const Testbody = () =>{
                         <div class="mnialname">Evelyn Johnson</div>
                       <div class="mnialdgnation">Marketing Senior Director</div>
                       </div> 
-                <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/surya-citra-media.png" class="img-fluid" alt="Surya Citra Media Agung"/></div>
+                <div class="mnialclien-img"><img src="/assets/images/surya-citra-media.png" class="img-fluid" alt="Surya Citra Media Agung"/></div>
                        </div>
                    </div>
                </div> 
@@ -494,7 +494,7 @@ const Testbody = () =>{
                         <div class="mnialname">Isabella Brown</div>
                       <div class="mnialdgnation">Senior Director</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/tambang-batubara-bukit.png" class="img-fluid" alt="Tambang Batubara Bukit"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/tambang-batubara-bukit.png" class="img-fluid" alt="Tambang Batubara Bukit"/></div>
                        </div>
                    </div>
                </div> 
@@ -511,7 +511,7 @@ const Testbody = () =>{
                         <div class="mnialname">Samuel Wilson</div>
                       <div class="mnialdgnation">Vice President of Sales</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/telkomsel.png" class="img-fluid" alt="Telkomsel"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/telkomsel.png" class="img-fluid" alt="Telkomsel"/></div>
                        </div>
                    </div>
                </div> 
@@ -528,7 +528,7 @@ const Testbody = () =>{
                         <div class="mnialname">James Smith</div>
                      <div class="mnialdgnation">Senior Manager Marketing</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/transcorp.png" class="img-fluid" alt="Transcorp"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/transcorp.png" class="img-fluid" alt="Transcorp"/></div>
                        </div>
                    </div>
                </div> 
@@ -545,7 +545,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Emma </div>
                       <div class="mnialdgnation">Head of Marketing</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/united-tractors.png" class="img-fluid" alt="United Tractors"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/united-tractors.png" class="img-fluid" alt="United Tractors"/></div>
                        </div>
                    </div>
                </div> 
@@ -562,7 +562,7 @@ const Testbody = () =>{
                         <div class="mnialname">Charlotte Jones</div>
                     <div class="mnialdgnation">Head of Marketing</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/waskita.png" class="img-fluid" alt="Waskita"/> </div>
+                   <div class="mnialclien-img"><img src="/assets/images/waskita.png" class="img-fluid" alt="Waskita"/> </div>
                        </div>
                    </div>
                </div> 
@@ -579,7 +579,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Lucas</div>
                      <div class="mnialdgnation">Manager Marketing</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/wika.png" class="img-fluid" alt="Wika"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/wika.png" class="img-fluid" alt="Wika"/></div>
                        </div>
                    </div>
                </div> 
@@ -596,7 +596,7 @@ const Testbody = () =>{
                         <div class="mnialname">Ben William</div>
                       <div class="mnialdgnation">Marketing Head</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/wing.png" class="img-fluid" alt="Wing"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/wing.png" class="img-fluid" alt="Wing"/></div>
                        </div>
                    </div>
                </div> 
@@ -613,7 +613,7 @@ const Testbody = () =>{
                         <div class="mnialname">  Jess</div>
                       <div class="mnialdgnation">Manager of Sales</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/wismilak-group.png" class="img-fluid" alt="Wismilak Group"/> </div>
+                    <div class="mnialclien-img"><img src="/assets/images/wismilak-group.png" class="img-fluid" alt="Wismilak Group"/> </div>
                        </div>
                    </div>
                </div> 
@@ -630,7 +630,7 @@ const Testbody = () =>{
                         <div class="mnialname">Amelia</div>
                       <div class="mnialdgnation">Department Head</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/changhe.png" class="img-fluid" alt="Changhe"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/changhe.png" class="img-fluid" alt="Changhe"/></div>
                        </div>
                    </div>
                </div> 
@@ -647,7 +647,7 @@ const Testbody = () =>{
                         <div class="mnialname">Amei Thomson</div>
                       <div class="mnialdgnation">Department Head of Sales</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/bank-mandiri.png" class="img-fluid" alt="Bank Mandiri"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/bank-mandiri.png" class="img-fluid" alt="Bank Mandiri"/></div>
                        </div>
                    </div>
                </div> 
@@ -664,7 +664,7 @@ const Testbody = () =>{
                         <div class="mnialname">Amei Thomson</div>
                       <div class="mnialdgnation">Department Head of Sales</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/bumi-resources.png" class="img-fluid" alt="Bumi Resources"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/bumi-resources.png" class="img-fluid" alt="Bumi Resources"/></div>
                        </div>
                    </div>
                </div> 
@@ -681,7 +681,7 @@ const Testbody = () =>{
                         <div class="mnialname">Deng Rui</div>
                       <div class="mnialdgnation">Department Head of Sales</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/axaiata.png" class="img-fluid" alt="Axaiata"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/axaiata.png" class="img-fluid" alt="Axaiata"/></div>
                        </div>
                    </div>
                </div> 
@@ -698,7 +698,7 @@ const Testbody = () =>{
                         <div class="mnialname">Jiang Xue</div>
                       <div class="mnialdgnation">Department Head of Sales</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/hanson-international.png" class="img-fluid" alt="Hanson International"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/hanson-international.png" class="img-fluid" alt="Hanson International"/></div>
                        </div>
                    </div>
                </div> 
@@ -716,7 +716,7 @@ const Testbody = () =>{
                         <div class="mnialname">Deng Rui</div>
                       <div class="mnialdgnation">Senior Manager,Sales</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/china-eastern.png" class="img-fluid" alt="China Eastern"/> </div>
+                     <div class="mnialclien-img"><img src="/assets/images/china-eastern.png" class="img-fluid" alt="China Eastern"/> </div>
                        </div>
                    </div>
                </div> 
@@ -733,7 +733,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Tang Hui </div>
                       <div class="mnialdgnation">Director</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/copperweld.png" class="img-fluid" alt="copperweld"/> </div>
+                   <div class="mnialclien-img"><img src="/assets/images/copperweld.png" class="img-fluid" alt="copperweld"/> </div>
                        </div>
                    </div>
                </div> 
@@ -750,7 +750,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Cao Yu</div>
                      <div class="mnialdgnation">Vice President,Sales</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/cosco.png" class="img-fluid" alt="Cosco"/> </div>
+                    <div class="mnialclien-img"><img src="/assets/images/cosco.png" class="img-fluid" alt="Cosco"/> </div>
                        </div>
                    </div>
                </div> 
@@ -767,7 +767,7 @@ const Testbody = () =>{
                         <div class="mnialname">He Jia</div>
                       <div class="mnialdgnation">Department of Marketing Head</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/dayun.png" class="img-fluid" alt="Dayun"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/dayun.png" class="img-fluid" alt="Dayun"/></div>
                        </div>
                    </div>
                </div> 
@@ -784,7 +784,7 @@ const Testbody = () =>{
                         <div class="mnialname">Gao Qiang</div>
                    <div class="mnialdgnation">Sales Manager</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/disco.png" class="img-fluid" alt="Disco"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/disco.png" class="img-fluid" alt="Disco"/></div>
                        </div>
                    </div>
                </div> 
@@ -801,7 +801,7 @@ const Testbody = () =>{
                         <div class="mnialname">Shen Li</div>
 						<div class="mnialdgnation">Vice President,Sales</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/erke.png" class="img-fluid" alt="Erke"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/erke.png" class="img-fluid" alt="Erke"/></div>
                        </div>
                    </div>
                </div> 
@@ -818,7 +818,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Feng Wei</div>
                       <div class="mnialdgnation">Director,Marketing</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/faw.png" class="img-fluid" alt="Faw"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/faw.png" class="img-fluid" alt="Faw"/></div>
                        </div>
                    </div>
                </div> 
@@ -835,7 +835,7 @@ const Testbody = () =>{
                         <div class="mnialname">Zhu Yue</div>
                       <div class="mnialdgnation">Head of Sales Department</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/feiyue.png" class="img-fluid" alt="Feiyue"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/feiyue.png" class="img-fluid" alt="Feiyue"/></div>
                        </div>
                    </div>
                </div> 
@@ -852,7 +852,7 @@ const Testbody = () =>{
                         <div class="mnialname">Zhou Ying</div>
                      <div class="mnialdgnation">Marketing Manager</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/haday.png" class="img-fluid" alt="Haday"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/haday.png" class="img-fluid" alt="Haday"/></div>
                        </div>
                    </div>
                </div> 
@@ -869,7 +869,7 @@ const Testbody = () =>{
                         <div class="mnialname">Lin Hao</div>
                       <div class="mnialdgnation">Director</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/hafei.png" class="img-fluid" alt="Hafei"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/hafei.png" class="img-fluid" alt="Hafei"/></div>
                        </div>
                    </div>
                </div> 
@@ -886,7 +886,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Wu Xin </div>
                      <div class="mnialdgnation">Vice President</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/hasee.png" class="img-fluid" alt="Hasee"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/hasee.png" class="img-fluid" alt="Hasee"/></div>
                        </div>
                    </div>
                </div> 
@@ -903,7 +903,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Xu Ling</div>
                       <div class="mnialdgnation">Senior Manager</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/inspur.png" class="img-fluid" alt="Inspur"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/inspur.png" class="img-fluid" alt="Inspur"/></div>
                        </div>
                    </div>
                </div> 
@@ -920,7 +920,7 @@ const Testbody = () =>{
                         <div class="mnialname">Huang Jun</div>
                        <div class="mnialdgnation">Manager Sales</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/joyoung.png" class="img-fluid" alt="Joyoung"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/joyoung.png" class="img-fluid" alt="Joyoung"/></div>
                        </div>
                    </div>
                </div> 
@@ -937,7 +937,7 @@ const Testbody = () =>{
                         <div class="mnialname">Yang Mei</div>
                      <div class="mnialdgnation">Manager</div>
                       </div> 
-                    <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/opple.png" class="img-fluid" alt="Opple"/></div>
+                    <div class="mnialclien-img"><img src="/assets/images/opple.png" class="img-fluid" alt="Opple"/></div>
                        </div>
                    </div>
                </div> 
@@ -954,7 +954,7 @@ const Testbody = () =>{
                         <div class="mnialname">Liu Feng</div>
                       <div class="mnialdgnation">Senior Director</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/saic-motor.png" class="img-fluid" alt="Saic motor"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/saic-motor.png" class="img-fluid" alt="Saic motor"/></div>
                        </div>
                    </div>
                </div> 
@@ -971,7 +971,7 @@ const Testbody = () =>{
                         <div class="mnialname">Chen Xiu </div>
                       <div class="mnialdgnation">Marketing Manager</div>
                       </div> 
-                  <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/sogo.png" class="img-fluid" alt="Sogo"/></div>
+                  <div class="mnialclien-img"><img src="/assets/images/sogo.png" class="img-fluid" alt="Sogo"/></div>
                        </div>
                    </div>
                </div> 
@@ -988,7 +988,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Wang Ming</div>
                      <div class="mnialdgnation">Head of Sales Department</div>
                       </div> 
-                     <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/suntech.png" class="img-fluid" alt="Suntech"/></div>
+                     <div class="mnialclien-img"><img src="/assets/images/suntech.png" class="img-fluid" alt="Suntech"/></div>
                        </div>
                    </div>
                </div> 
@@ -1005,7 +1005,7 @@ const Testbody = () =>{
                         <div class="mnialname">Zhang Jing</div>
                      <div class="mnialdgnation">Head of Sales</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/unicorn.png" class="img-fluid" alt="Unicorn"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/unicorn.png" class="img-fluid" alt="Unicorn"/></div>
                        </div>
                    </div>
                </div> 
@@ -1022,7 +1022,7 @@ const Testbody = () =>{
                         <div class="mnialname"> Li Wei </div>
                      <div class="mnialdgnation">Manager of Marketing</div>
                       </div> 
-                   <div class="mnialclien-img"><img src="./Testimonials - What Our Clients Says About Us_files/yili.png" class="img-fluid" alt="Yili"/></div>
+                   <div class="mnialclien-img"><img src="/assets/images/yili.png" class="img-fluid" alt="Yili"/></div>
                        </div>
                    </div>
                </div> 

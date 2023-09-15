@@ -10,7 +10,7 @@ const Healthcare = () => {
                <div class="col-md-12">
                   <div class="grid2 b-access-pdfv">
                      <div class="b-access-pdfvImg1 wth50">
-                        <span class="manimg"><img src="./Online Training Modules for Employees Engagement_files/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
+                        <span class="manimg"><img src="/assets/images/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
                         </span>
                      </div>
                      <div class="b-access-pdftext">
@@ -21,7 +21,7 @@ const Healthcare = () => {
                            <li><i class="mdi mdi-arrow-top-right"></i>Lack of Digital Strategy</li>
 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                   </div>
                </div>
@@ -37,7 +37,7 @@ const Healthcare = () => {
                   <div class="breadcrumbNav-sec">
                      <nav style={{bsBreadcrumbDivider: "&#39&gt&#39"}} class="breadcrumbNav" aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                           <li class="breadcrumb-item"><a href="https://talk2lead.com/">Home</a></li>
+                           <li class="breadcrumb-item"><a href="/">Home</a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/">Learning Solutions </a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/corporate-elearning-solutions/">Corporate E-Learning Solutions</a></li>
                            <li class="breadcrumb-item active" aria-current="page">Training Modules for Employees</li>
@@ -52,12 +52,12 @@ const Healthcare = () => {
                   <div class="d-comp">
                      <div class="d-comptext1">
                         <p>In the healthcare industry, our B2B lead generation service excels. Tailored strategies navigate complex decisions, complying with regulations and fostering engagement. Personalized communication bridges gaps, while unique value propositions shine amidst competition. Our expertise extends to physician engagement and efficient lead tracking, ensuring successful conversion.</p>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                      <div class="d-compImgg1">
                         <div class="d-cmpImgbg text-end">
                            <div class="">
-                              <span><img src="./Online Training Modules for Employees Engagement_files/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
+                              <span><img src="/assets/images/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
                            </div>
                         </div>
                      </div>
@@ -103,14 +103,14 @@ const Healthcare = () => {
                          
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
+                        <span><img src="/assets/images/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="medical">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
+                        <span><img src="/assets/images/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                        <h3>Medical Equipment Providers </h3>  
@@ -127,14 +127,14 @@ const Healthcare = () => {
                          
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
+                        <span><img src="/assets/images/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="health">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
+                        <span><img src="/assets/images/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Health IT Solutions </h3> 
@@ -150,14 +150,14 @@ const Healthcare = () => {
                           
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
+                        <span><img src="/assets/images/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="healthcare">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Healthcare Consultancies </h3> 
@@ -173,14 +173,14 @@ const Healthcare = () => {
                         <p>Companies offering medical billing and coding services seek leads from healthcare providers looking to outsource administrative tasks. </p> 
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
+                        <span><img src="/assets/images/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="clinical">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Clinical Research Organisations </h3>
@@ -209,24 +209,24 @@ const Healthcare = () => {
                   <div class="rightlist">
                      <ul>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/analysis.svg" class="img-fluid" alt="Analysis"/></span> Adaptable Strategies </div>
+                           <div><span><img src="/assets/images/analysis.svg" class="img-fluid" alt="Analysis"/></span> Adaptable Strategies </div>
                           Tailored lead generation strategies are designed to adapt to seasonal shifts, ensuring consistent lead flow during peak travel seasons and maintaining steady traction during slower periods.   
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/design.svg" class="img-fluid" alt="Design"/></span> Nurturing Expertise </div>
+                           <div><span><img src="/assets/images/design.svg" class="img-fluid" alt="Design"/></span> Nurturing Expertise </div>
                            Our service specializes in nurturing leads throughout extended sales cycles. By maintaining consistent engagement, we accelerate decision-making and facilitate timely conversion. 
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/development.svg" class="img-fluid" alt="Development"/></span> Distinctive Value Propositions </div>
+                           <div><span><img src="/assets/images/development.svg" class="img-fluid" alt="Development"/></span> Distinctive Value Propositions </div>
                            Crafting unique value propositions is a core focus. We develop compelling messages that help businesses stand out in the competitive travel and hospitality industry, capturing the attention of B2B clients. 
   
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/implementation.svg" class="img-fluid" alt="Implementation"/></span> Facilitating Multiple Decision-Makers </div>
+                           <div><span><img src="/assets/images/implementation.svg" class="img-fluid" alt="Implementation"/></span> Facilitating Multiple Decision-Makers </div>
                            Our tailored communication strategies simplify negotiations involving multiple stakeholders. This expedites decision-making and streamlines the B2B lead conversion process.  
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Budget-Optimized Approaches </div>
+                           <div><span><img src="/assets/images/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Budget-Optimized Approaches </div>
                           Maximizing ROI within budget constraints is a priority. Our strategies are meticulously optimized to ensure efficient resource utilization, yielding higher returns on investment for travel and hospitality businesses.
                         </li>
                      </ul>
@@ -245,35 +245,35 @@ const Healthcare = () => {
                   </div>
                   <div class="specialbg">
                      <div class="special step1">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
+                        <span><img src="/assets/images/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
                         <div class="tre3">35% reduction in lead conversion time through personalized engagement.  </div>
                      </div>
                      <div class="special step2">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
+                        <span><img src="/assets/images/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
                         <div class="tre3">20% increase in lead generation impact within limited budgets. </div>
                      </div>
                      <div class="special step3">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
+                        <span><img src="/assets/images/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
                         <div class="tre3">45% boost in leads during peak enrollment periods. </div>
                      </div>
                      <div class="special step4">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
+                        <span><img src="/assets/images/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
                         <div class="tre3">50% improved stakeholder engagement with tailored efforts. </div>
                      </div>
                      <div class="special step5">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
+                        <span><img src="/assets/images/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
                         <div class="tre3">100% compliance with data privacy laws, building trust. </div>
                      </div>
                      <div class="special step6">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
+                        <span><img src="/assets/images/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
                         <div class="tre3">30% rise in lead conversion rates with personalised strategies. </div>
                      </div>
                      <div class="special step7">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
+                        <span><img src="/assets/images/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
                         <div class="tre3">25% increase in capturing potential clients' attention. </div>
                      </div>
                      <div class="special step8">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
+                        <span><img src="/assets/images/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
                         <div class="tre3">90% of conversions attributed to lead gen efforts for ROI.</div>
                      </div> 
                   </div>
@@ -296,29 +296,8 @@ const Healthcare = () => {
                
                
                
-               
-               
-               
-               
-               
-               
-               
-                
-               
-               
-               
-               
-               
-               
-                
-               
-               
-               
-               
-               
-               
-            <div class="owl-stage-outer"><div class="owl-stage" style={{transform:" translate3d(0px, 0px, 0px)", transition: 'all 0s ease 0s', width:' 3979px'}}><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img data-src="https://www.talk2lead.com/assets/images/our-clients/white-logo/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/16.png" class="img-fluid" alt="16" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width:' 135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
-         </div>
+            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)',transition: 'all 0s ease 0s', width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/16.png" class="img-fluid" alt="16" loading="lazy"/ ></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
+             </div>
       </div>
    </div>
 </section>  
@@ -416,10 +395,6 @@ const Healthcare = () => {
             </div>
          </div>
       </div></section>
-        
-
-
-
 
        </>
     )

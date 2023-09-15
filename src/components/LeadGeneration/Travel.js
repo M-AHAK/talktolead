@@ -10,7 +10,7 @@ const Travel = () => {
                <div class="col-md-12">
                   <div class="grid2 b-access-pdfv">
                      <div class="b-access-pdfvImg1 wth50">
-                        <span class="manimg"><img src="./Expert Lead Generation Solutions for Travel &amp; Hospitality Industry _ Talk2Lead_files/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
+                        <span class="manimg"><img src="/assets/images/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
                         </span>
                      </div>
                      <div class="b-access-pdftext">
@@ -20,14 +20,14 @@ const Travel = () => {
                            <li><i class="mdi mdi-arrow-top-right"></i> Long Sales Cycles </li>
                            <li><i class="mdi mdi-arrow-top-right"></i> Budget Constraints</li>
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                   </div>
                </div>
             </div>
          </div>
       </section>
-      <section class="sec d-comp-sec pt-0">
+      <section class="sec d-com p-sec pt-0">
          <div class="triangle"><img src="./Expert Lead Generation Solutions for Travel &amp; Hospitality Industry _ Talk2Lead_files/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
          <div class="container">
             <div class="row">

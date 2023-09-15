@@ -10,7 +10,7 @@ const RealEstate = () => {
                <div class="col-md-12">
                   <div class="grid2 b-access-pdfv">
                      <div class="b-access-pdfvImg1 wth50">
-                        <span class="manimg"><img src="./Online Training Modules for Employees Engagement_files/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
+                        <span class="manimg"><img src="/assets/images/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
                         </span>
                      </div>
                      <div class="b-access-pdftext">
@@ -20,7 +20,7 @@ const RealEstate = () => {
                            <li><i class="mdi mdi-arrow-top-right"></i> Complexity and Personalization</li> 
                            <li><i class="mdi mdi-arrow-top-right"></i> Data and Resource Limitations </li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                   </div>
                </div>
@@ -28,14 +28,14 @@ const RealEstate = () => {
          </div>
       </section>
       <section class="sec d-comp-sec pt-0">
-         <div class="triangle"><img src="./Online Training Modules for Employees Engagement_files/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
+         <div class="triangle"><img src="/assets/images/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
          <div class="container">
             <div class="row">
                <div class="col-md-12">
                   <div class="breadcrumbNav-sec">
                      <nav style={{bsBreadcrumbDivider: "&#39&gt&#39"}} class="breadcrumbNav" aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                           <li class="breadcrumb-item"><a href="https://talk2lead.com/">Home</a></li>
+                           <li class="breadcrumb-item"><a href="/">Home</a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/">Learning Solutions </a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/corporate-elearning-solutions/">Corporate E-Learning Solutions</a></li>
                            <li class="breadcrumb-item active" aria-current="page">Training Modules for Employees</li>
@@ -50,12 +50,12 @@ const RealEstate = () => {
                   <div class="d-comp">
                      <div class="d-comptext1">
                         <p>Our B2B lead generation service is designed to tackle the unique challenges of the real estate industry. We stand out in a competitive landscape, address complex decision-making, and ensure data accuracy. Privacy concerns are managed, online presence is boosted, and personalization is prioritized. We articulate strong value propositions, work within budgets, and provide expertise. Tracking leads efficiently and guiding through change are our specialties. We empower real estate businesses for successful B2B lead conversions.</p>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                      <div class="d-compImgg1">
                         <div class="d-cmpImgbg text-end">
                            <div class="">
-                              <span><img src="./Online Training Modules for Employees Engagement_files/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
+                              <span><img src="/assets/images/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
                            </div>
                         </div>
                      </div>
@@ -99,14 +99,14 @@ const RealEstate = () => {
                          
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
+                        <span><img src="/assets/images/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="commercial">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
+                        <span><img src="/assets/images/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                        <h3>Commercial Real Estate </h3>  
@@ -123,14 +123,14 @@ const RealEstate = () => {
                          
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
+                        <span><img src="/assets/images/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="RealEstateInvestors">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
+                        <span><img src="/assets/images/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Real Estate Investors </h3> 
@@ -146,14 +146,14 @@ const RealEstate = () => {
                           
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
+                        <span><img src="/assets/images/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="construction-firms">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Construction Firms  </h3> 
@@ -169,14 +169,14 @@ const RealEstate = () => {
                         <p>Architects and interior designers benefit from our services by connecting with property developers, contractors, and real estate investors seeking their expertise. Through B2B lead generation, we identify development projects and construction firms in need of architectural and design services. This ensures architects and designers can contribute to property development projects that align with their skills and creative vision. </p> 
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
+                        <span><img src="/assets/images/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="RealEstateTechnology">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Real Estate Technology Providers </h3>
@@ -188,7 +188,7 @@ const RealEstate = () => {
                 
             </div>
             <div class="col-md-12 text-center mt-4 singl-btn">
-               <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+               <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
             </div>
          </div>
           
@@ -205,23 +205,23 @@ const RealEstate = () => {
                   <div class="rightlist">
                      <ul>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/analysis.svg" class="img-fluid" alt="Analysis"/></span> Assessment and Strategy  </div>
+                           <div><span><img src="/assets/images/analysis.svg" class="img-fluid" alt="Analysis"/></span> Assessment and Strategy  </div>
                           We analyze your goals and target audience to create a tailored B2B lead generation plan.    
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/design.svg" class="img-fluid" alt="Design"/></span> Targeted Outreach </div>
+                           <div><span><img src="/assets/images/design.svg" class="img-fluid" alt="Design"/></span> Targeted Outreach </div>
                            We identify potential clients matching your ideal profile and engage them with personalized messages. 
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/development.svg" class="img-fluid" alt="Development"/></span> Engagement and Nurturing </div>
+                           <div><span><img src="/assets/images/development.svg" class="img-fluid" alt="Development"/></span> Engagement and Nurturing </div>
                           We provide valuable content, answer questions, and showcase your solutions to interested prospects. 
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/implementation.svg" class="img-fluid" alt="Implementation"/></span> Lead Qualification </div>
+                           <div><span><img src="/assets/images/implementation.svg" class="img-fluid" alt="Implementation"/></span> Lead Qualification </div>
                            We assess leads based on fit and interest, delivering high-quality prospects to your sales team.   
                         </li>
                         <li>
-                           <div><span><img src="./Online Training Modules for Employees Engagement_files/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Optimization and Reporting </div>
+                           <div><span><img src="/assets/images/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Optimization and Reporting </div>
                           We continually refine strategies based on real-time data, track performance, and provide insightful analytics for informed decisions. 
                         </li>
                      </ul>
@@ -241,36 +241,36 @@ const RealEstate = () => {
 
                   <div class="specialbg">
                      <div class="special step1">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
+                        <span><img src="/assets/images/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
                         <div class="tre3">35% reduction in lead conversion time through personalised engagement. 
   </div>
                      </div>
                      <div class="special step2">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
+                        <span><img src="/assets/images/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
                         <div class="tre3">20% increase in lead generation impact within limited budgets. </div>
                      </div>
                      <div class="special step3">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
+                        <span><img src="/assets/images/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
                         <div class="tre3">45% boost in leads during peak enrollment periods. </div>
                      </div>
                      <div class="special step4">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
+                        <span><img src="/assets/images/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
                         <div class="tre3">50% improved stakeholder engagement with tailored efforts. </div>
                      </div>
                      <div class="special step5">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
+                        <span><img src="/assets/images/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
                         <div class="tre3">100% compliance with data privacy laws, building trust. </div>
                      </div>
                      <div class="special step6">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
+                        <span><img src="/assets/images/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
                         <div class="tre3">30% rise in lead conversion rates with personalised strategies. </div>
                      </div>
                      <div class="special step7">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
+                        <span><img src="/assets/images/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
                         <div class="tre3">25% increase in capturing potential clients' attention. </div>
                      </div>
                      <div class="special step8">
-                        <span><img src="./Online Training Modules for Employees Engagement_files/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
+                        <span><img src="/assets/images/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
                         <div class="tre3">90% of conversions attributed to lead gen efforts for ROI.</div>
                      </div> 
                   </div>
@@ -291,26 +291,13 @@ const RealEstate = () => {
         </div> 
                  <div class="owl-carousel owl-theme client-slider1 owl-loaded owl-drag">
                
+
                
-               
-               
-               
-               
-               
-               
-               
-               
-                
-               
-               
-               
-               
-            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s',width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img data-src="https://www.talk2lead.com/assets/images/our-clients/white-logo/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/16.png" class="img-fluid" alt="16" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="./Online Training Modules for Employees Engagement_files/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
-         </div>
+            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)',transition: 'all 0s ease 0s', width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/16.png" class="img-fluid" alt="16" loading="lazy"/ ></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
+            </div>
       </div>
    </div>
 </section> 
-
 
 <section class="sec faqs-sec">
          <div class="container">

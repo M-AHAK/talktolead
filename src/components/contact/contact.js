@@ -144,53 +144,53 @@ const Testcontact = () =>{
                
                
             <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s', width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/axaiata.png" alt="axaiata" src="./Contact Us _ talk2lead_files/axaiata.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/axaiata.png" alt="axaiata" src="assets/images/axaiata.png" style={{opacity: '1'}}/>
              </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/dayun.png" alt="dayun" src="./Contact Us _ talk2lead_files/dayun.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/dayun.png" alt="dayun" src="assets/images/dayun.png" style={{opacity: '1'}}/>
                </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/disco.png" alt="disco" src="./Contact Us _ talk2lead_files/disco.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/disco.png" alt="disco" src="assets/images/disco.png" style={{opacity: '1'}}/>
               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/feiyue.png" alt="feiyue" src="./Contact Us _ talk2lead_files/feiyue.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/feiyue.png" alt="feiyue" src="assets/images/feiyue.png" style={{opacity: '1'}}/>
                </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/hasee.png" alt="hasee" src="./Contact Us _ talk2lead_files/hasee.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/hasee.png" alt="hasee" src="assets/images/hasee.png" style={{opacity: '1'}}/>
               </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image3.png" alt="image3" src="./Contact Us _ talk2lead_files/image3.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image3.png" alt="image3" src="assets/images/image3.png" style={{opacity: '1'}}/>
                </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image4.png" alt="image4" src="./Contact Us _ talk2lead_files/image4.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image4.png" alt="image4" src="assets/images/image4.png" style={{opacity: '1'}}/>
                </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image5.png" alt="image5" src="./Contact Us _ talk2lead_files/image5.png" style={{opacity: '1'}}/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image5.png" alt="image5" src="assets/images/image5.png" style={{opacity: '1'}}/>
                </div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image6.png" alt="image6" src="./Contact Us _ talk2lead_files/image6.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image6.png" alt="image6" src="assets/images/image6.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image7.png" alt="image7" src="./Contact Us _ talk2lead_files/image7.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image7.png" alt="image7" src="assets/images/image7.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image8.png" alt="image8" src="./Contact Us _ talk2lead_files/image8.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image8.png" alt="image8" src="assets/images/image8.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}> 
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image9.png" alt="image9" src="./Contact Us _ talk2lead_files/image9.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image9.png" alt="image9" src="assets/images/image9.png"/>
               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image10.png" alt="image10" src="./Contact Us _ talk2lead_files/image10.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image10.png" alt="image10" src="assets/images/image10.png"/>
               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image11.png" alt="image11" src="./Contact Us _ talk2lead_files/image11.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image11.png" alt="image11" src="assets/images/image11.png"/>
               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image12.png" alt="image12" src="./Contact Us _ talk2lead_files/image12.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image12.png" alt="image12" src="assets/images/image12.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image13.png" alt="image13" src="./Contact Us _ talk2lead_files/image13.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image13.png" alt="image13" src="assets/images/image13.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image14.png" alt="image14" src="./Contact Us _ talk2lead_files/image14.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image14.png" alt="image14" src="assets/images/image14.png"/>
               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image15.png" alt="image15" src="./Contact Us _ talk2lead_files/image15.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image15.png" alt="image15" src="assets/images/image15.png"/>
               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image16.png" alt="image16" src="./Contact Us _ talk2lead_files/image16.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image16.png" alt="image16" src="assets/images/image16.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image17.png" alt="image17" src="./Contact Us _ talk2lead_files/image17.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image17.png" alt="image17" src="assets/images/image17.png"/>
               </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image18.png" alt="image18" src="./Contact Us _ talk2lead_files/image18.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image18.png" alt="image18" src="assets/images/image18.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image19.png" alt="image19" src="./Contact Us _ talk2lead_files/image19.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image19.png" alt="image19" src="assets/images/image19.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image20.png" alt="image20" src="./Contact Us _ talk2lead_files/image20.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/image20.png" alt="image20" src="assets/images/image20.png"/>
                </div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
-                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/indofood.png" alt="indofood" src="./Contact Us _ talk2lead_files/indofood.png"/>
+                  <img class="owl-lazy img-fluid" data-src="https://talk2lead.com/assets/images/testimonail-logo/indofood.png" alt="indofood" src="assets/images/indofood.png"/>
                </div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
          </div>
       </div>

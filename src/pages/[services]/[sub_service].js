@@ -18,7 +18,22 @@ import SearchHealthcare from "@/components/Search Engine/Search-Healthcare";
 import SearchRealEstate from "@/components/Search Engine/Search-RealEstate";
 import SearchTechnology from "@/components/Search Engine/Search-Technology";
 import SearchTravel from "@/components/Search Engine/Search-Travel";
-
+import Ppcautomobile from "@/components/pay-per-click/ppcautomobile";
+import Ppcbrokerage from "@/components/pay-per-click/ppcbrokerage";
+import Ppceducation from "@/components/pay-per-click/ppceducation";
+import Ppcfinance from "@/components/pay-per-click/ppcfinance";
+import Ppchealthcare from "@/components/pay-per-click/ppchealthcare";
+import Ppcrealestate from "@/components/pay-per-click/Ppcrealestate";
+import Ppctechnology from "@/components/pay-per-click/ppctechnology";
+import Ppctravel from "@/components/pay-per-click/ppctravel";
+import Smoautomobile from "@/components/social-media/smoautomobile";
+import Smobrokerage from "@/components/social-media/smobrokerage";
+import Smoeducation from "@/components/social-media/smoeducation";
+import Smofinance from "@/components/social-media/smofinance";
+import Smohealthcare from "@/components/social-media/smohealthcare";
+import Smorealestate from "@/components/social-media/smorealestate";
+import Smotechnology from "@/components/social-media/smotechnology";
+import Smotravel from "@/components/social-media/smotravel";
 const Action = ({services,sub_service}) => {
     return (
 <>
@@ -72,7 +87,54 @@ const Action = ({services,sub_service}) => {
 {
     services === 'seo' && sub_service=== 'travel-and-hospitality' && <SearchTravel/>
 }
-
+{
+    services === 'ppc' && sub_service=== 'automobile-marketplace' && <Ppcautomobile/>
+}
+{
+    services === 'ppc' && sub_service=== 'brokerage' && <Ppcbrokerage/>
+}
+{
+    services === 'ppc' && sub_service=== 'education' && <Ppceducation/>
+}
+{
+    services === 'ppc' && sub_service=== 'finance-and-banking' && <Ppcfinance/>
+}
+{
+    services === 'ppc' && sub_service=== 'healthcare' && <Ppchealthcare/>
+}
+{
+    services === 'ppc' && sub_service=== 'real-estate' && <Ppcrealestate/>
+}
+{
+    services === 'ppc' && sub_service=== 'technology-marketplace' && <Ppctechnology/>
+}
+{
+    services === 'ppc' && sub_service=== 'travel-and-hospitality' && <Ppctravel/>
+}
+{
+    services === 'smo' && sub_service=== 'automobile-marketplace' && <Smoautomobile/>
+}
+{
+    services === 'smo' && sub_service=== 'brokerage' && <Smobrokerage/>
+}
+{
+    services === 'smo' && sub_service=== 'education' && <Smoeducation/>
+}
+{
+    services === 'smo' && sub_service=== 'finance-and-banking' && <Smofinance/>
+}
+{
+    services === 'smo' && sub_service=== 'healthcare' && <Smohealthcare/>
+}
+{
+    services === 'smo' && sub_service=== 'real-estate' && <Smorealestate/>
+}
+{
+    services === 'smo' && sub_service=== 'technology-marketplace' && <Smotechnology/>
+}
+{
+    services === 'smo' && sub_service=== 'travel-and-hospitality' && <Smotravel/>
+}
 <Testfooter/>
 </>
     )

@@ -2,7 +2,12 @@ import Script from 'next/script'
 const Testfooter= () =>{
     return(
         <>
-        
+
+        <link href="/assets/css/header-footer-style.css" rel="stylesheet"></link>
+
+        <link href="/assets/css/footer-about-icon.css" rel="stylesheet"></link>
+
+
        <footer class="footer mt-auto py-3 pt-4">
   <div class="container">
     <div class="row">
@@ -11,7 +16,7 @@ const Testfooter= () =>{
         <div class="wid1">
           <div class="f-links f-links1">
             <div class="f-address">
-			<a href="https://www.talk2lead.com/"><img src="./Testimonials - What Our Clients Says About Us_files/logo-footer.svg" alt="logo" class="img-fluid"/></a> 
+			<a href="/"><img src="/assets/images/logo-footer.svg" alt="logo" class="img-fluid"/></a> 
               <p class="pt-3">Devoting our excellence to simplify workspace training and classroom needs.</p>
             </div>
           </div>  
@@ -22,9 +27,9 @@ const Testfooter= () =>{
                 <h5>For Sales / Business Development</h5> 
                   
                 <ul>
-                  <li><a href="tel:+61402749856"><span><img src="./Testimonials - What Our Clients Says About Us_files/au.webp" class="img-fluid" alt="au" width="22"/></span> +61-402749856</a></li>
+                  <li><a href="tel:+61402749856"><span><img src="/assets/images/au.webp" class="img-fluid" alt="au" width="22"/></span> +61-402749856</a></li>
                  
-                  <li><a href="tel:+917000530247"><span><img src="./Testimonials - What Our Clients Says About Us_files/in-flag.webp" class="img-fluid" alt="in" width="22"/></span>  +91-700-053-0247</a></li>
+                  <li><a href="tel:+917000530247"><span><img src="/assets/images/in-flag.webp" class="img-fluid" alt="in" width="22"/></span>  +91-700-053-0247</a></li>
                 </ul>
               </div>
               <div class="f-cuntry">
@@ -59,12 +64,12 @@ const Testfooter= () =>{
               </div> 
             <div class="f-links f-links4">
               <div class="f-address">
-                  <h4><img src="./Testimonials - What Our Clients Says About Us_files/footer-about-icon.svg" class="img-fluid" alt="About Us"/> About Us</h4>
+                  <h4><img src="/assets/images/footer-about-icon.svg" class="img-fluid" alt="About Us"/> About Us</h4>
                   <div class="f-cuntry">
                     <ul>
                       
-                      <li><a href="https://www.talk2lead.com/contact-us/">Contact Us </a></li> 
-                      <li><a href="https://www.talk2lead.com/our-clients/">Our Clients </a></li>
+                      <li><a href="/contact-us/">Contact Us </a></li> 
+                      
                     </ul>
                   </div>
                 </div>
@@ -78,7 +83,9 @@ const Testfooter= () =>{
     </div>
   </div>
   </div> 
+
 </footer> 
+
 {/* <script
 dangerouslySetInnerHTML={{__html:`
 $('.menuslider').owlCarousel({ 
