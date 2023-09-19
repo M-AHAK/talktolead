@@ -10,7 +10,7 @@ const SearchHealthcare = () => {
                <div class="col-md-12">
                   <div class="grid2 b-access-pdfv">
                      <div class="b-access-pdfvImg1 wth50">
-                        <span class="manimg"><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
+                        <span class="manimg"><img src="/assets/images/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
                         </span>
                      </div>
                      <div class="b-access-pdftext">
@@ -20,7 +20,7 @@ const SearchHealthcare = () => {
                            <li><i class="mdi mdi-arrow-top-right"></i> Algorithm Updates and Trends</li>
                            <li><i class="mdi mdi-arrow-top-right"></i> Content Personalization</li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                   </div>
                </div>
@@ -29,14 +29,14 @@ const SearchHealthcare = () => {
       </section>
 
       <section class="sec d-comp-sec pt-0">
-         <div class="triangle"><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
+         <div class="triangle"><img src="/assets/images/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
          <div class="container">
             <div class="row">
                <div class="col-md-12">
                   <div class="breadcrumbNav-sec">
                      <nav style={{bsBreadcrumbDivider: "&#39;&gt;&#39;;"}} class="breadcrumbNav" aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                           <li class="breadcrumb-item"><a href="https://talk2lead.com/">Home</a></li>
+                           <li class="breadcrumb-item"><a href="/">Home</a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/">Learning Solutions </a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/corporate-elearning-solutions/">Corporate E-Learning Solutions</a></li>
                            <li class="breadcrumb-item active" aria-current="page">Training Modules for Employees</li>
@@ -51,12 +51,12 @@ const SearchHealthcare = () => {
                   <div class="d-comp">
                      <div class="d-comptext1">
                         <p>We offer specialized solutions to address the unique challenges of the healthcare industry in search engine optimization (SEO). From navigating stringent regulations to ensuring accurate medical content, our expertise helps healthcare organizations optimize their online presence while maintaining patient privacy. We craft informative and compliant content, employ competitive strategies, and enhance local search visibility to connect patients with relevant services. Our tailored approach fosters trust and credibility, positioning healthcare providers as authoritative sources while meeting patients' needs effectively in the digital landscape.</p>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                      <div class="d-compImgg1">
                         <div class="d-cmpImgbg text-end">
                            <div class="">
-                              <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
+                              <span><img src="/assets/images/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
                            </div>
                         </div>
                      </div>
@@ -101,14 +101,14 @@ const SearchHealthcare = () => {
                          
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
+                        <span><img src="/assets/images/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="studyabroad">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
+                        <span><img src="/assets/images/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                        <h3>Medical Practices </h3>  
@@ -125,14 +125,14 @@ const SearchHealthcare = () => {
                          
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
+                        <span><img src="/assets/images/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="training">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
+                        <span><img src="/assets/images/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Telehealth Services </h3> 
@@ -148,14 +148,14 @@ const SearchHealthcare = () => {
                           
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
+                        <span><img src="/assets/images/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="test">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Medical Equipment Suppliers </h3> 
@@ -170,14 +170,14 @@ const SearchHealthcare = () => {
                         <p>Increase visibility for holistic health services and practices  </p> 
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
+                        <span><img src="/assets/images/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="publishers">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Rehabilitation Centers: </h3>
@@ -189,7 +189,7 @@ const SearchHealthcare = () => {
                 
             </div>
             <div class="col-md-12 text-center mt-4 singl-btn">
-               <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+               <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
             </div>
          </div>
           
@@ -206,23 +206,23 @@ const SearchHealthcare = () => {
                   <div class="rightlist">
                      <ul>
                         <li>
-                           <div><span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/analysis.svg" class="img-fluid" alt="Analysis"/></span> Keyword Research </div>
+                           <div><span><img src="/assets/images/analysis.svg" class="img-fluid" alt="Analysis"/></span> Keyword Research </div>
                           This involves understanding user search behavior, analyzing competition, and selecting keywords that align with your services and specialties.    
                         </li>
                         <li>
-                           <div><span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/design.svg" class="img-fluid" alt="Design"/></span> On-Page Optimization </div>
+                           <div><span><img src="/assets/images/design.svg" class="img-fluid" alt="Design"/></span> On-Page Optimization </div>
                            This includes enhancing meta tags, headers, and URLs with targeted keywords. We also ensure your website is user-friendly, fast-loading, and mobile-responsive.  
                         </li>
                         <li>
-                           <div><span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/development.svg" class="img-fluid" alt="Development"/></span> Content Strategy </div>
+                           <div><span><img src="/assets/images/development.svg" class="img-fluid" alt="Development"/></span> Content Strategy </div>
                           Our team creates high-quality and engaging content, integrating chosen keywords naturally while providing valuable insights and information related to healthcare.  
                         </li>
                         <li>
-                           <div><span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/implementation.svg" class="img-fluid" alt="Implementation"/></span> Link Building </div>
+                           <div><span><img src="/assets/images/implementation.svg" class="img-fluid" alt="Implementation"/></span> Link Building </div>
                           These backlinks enhance your website's credibility in the eyes of search engines, contributing to higher rankings.   
                         </li>
                         <li>
-                           <div><span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Monitoring and Optimization </div>
+                           <div><span><img src="/assets/images/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Monitoring and Optimization </div>
                           Tracking metrics such as organic traffic, keyword rankings, and user engagement helps us fine-tune our strategy.
 
                         </li>
@@ -242,36 +242,36 @@ const SearchHealthcare = () => {
                   </div>
                   <div class="specialbg">
                      <div class="special step1">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
+                        <span><img src="/assets/images/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
                         <div class="tre3">120% increase in organic website traffic within the first six months.   
   </div>
                      </div>
                      <div class="special step2">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
+                        <span><img src="/assets/images/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
                         <div class="tre3">Improved keyword rankings by 40 positions average. </div>
                      </div>
                      <div class="special step3">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
+                        <span><img src="/assets/images/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
                         <div class="tre3">Conversion Rate Optimization increased the conversion rate by 25%  </div>
                      </div>
                      <div class="special step4">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
+                        <span><img src="/assets/images/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
                         <div class="tre3">Backlink acquired 250 high-quality backlinks from authoritative websites </div>
                      </div>
                      <div class="special step5">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
+                        <span><img src="/assets/images/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
                         <div class="tre3">Local SEO achieved a 70% increase in local search visibility  </div>
                      </div>
                      <div class="special step6">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
+                        <span><img src="/assets/images/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
                         <div class="tre3">50% decrease in bounce rate for mobile users and increased engagement. </div>
                      </div>
                      <div class="special step7">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
+                        <span><img src="/assets/imagesten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
                         <div class="tre3">E-commerce growth generated a 60% increase in organic traffic  </div>
                      </div>
                      <div class="special step8">
-                        <span><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
+                        <span><img src="/assets/images/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
                         <div class="tre3">25% increase in capturing potential clients' attention.</div>
                      </div> 
                   </div>
@@ -299,7 +299,7 @@ const SearchHealthcare = () => {
                
                
                
-            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s', width: '3438px'}}><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img data-src="https://www.talk2lead.com/assets/images/our-clients/white-logo/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/16.png" class="img-fluid" alt="16" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="./Best SEO Services Provider for the Healthcare Industry _ Talk2Lead_files/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
+            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s', width: '3438px'}}><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img data-src="https://www.talk2lead.com/assets/images/our-clients/white-logo/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/16.png" class="img-fluid" alt="16" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '113.25px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
          </div>
       </div>
    </div>

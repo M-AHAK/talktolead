@@ -1,4 +1,6 @@
 import React from 'react'
+import dynamic from 'next/dynamic';
+const OwlCarousel = dynamic(import('react-owl-carousel'), { ssr: false });
 
 const Automobile = () => {
 // const commercialRef = React.useRef()
@@ -83,14 +85,14 @@ const Automobile = () => {
                   </div>
                   <div class="s-tabsClick">
                      <ul class="">
-                        <li class="list active" ><a href="/lead-generation/automobile-marketplace/#commercial" class="Hospital">Dealerships</a></li>
-                        <li class="list"><a href="/lead-generation/automobile-marketplace/#investment" class="Medical">Manufacturers</a></li>
-                        <li class="list"><a href="/lead-generation/automobile-marketplace/#asset" class="Pharmaceutical">Suppliers</a></li>
-                        <li class="list"><a href="/lead-generation/automobile-marketplace/#financial" class="Health">Fleet  </a></li> 
-                        <li class="list"><a href="/lead-generation/automobile-marketplace/#insurance" class="Telemedicine">Automotive</a></li> 
-                        <li class="list"><a href="/lead-generation/automobile-marketplace/#payment" class="Healthcare">Aftermarket</a></li>  
-                         <li class="list"><a href="/lead-generation/automobile-marketplace/#corporate" class="MedicalBilling">Rental &amp; Leasing</a></li> 
-                        <li class="list"><a href="/lead-generation/automobile-marketplace/#wealth" class="clinical">Electric</a></li>  
+                        <li class="list active" ><a href="#commercial" class="Hospital">Dealerships</a></li>
+                        <li class="list"><a href="#investment" class="Medical">Manufacturers</a></li>
+                        <li class="list"><a href="#asset" class="Pharmaceutical">Suppliers</a></li>
+                        <li class="list"><a href="#financial" class="Health">Fleet  </a></li> 
+                        <li class="list"><a href="#insurance" class="Telemedicine">Automotive</a></li> 
+                        <li class="list"><a href="#payment" class="Healthcare">Aftermarket</a></li>  
+                         <li class="list"><a href="#corporate" class="MedicalBilling">Rental &amp; Leasing</a></li> 
+                        <li class="list"><a href="#wealth" class="clinical">Electric</a></li>  
                      </ul>
                   </div>
                </div>
@@ -298,15 +300,95 @@ const Automobile = () => {
             <p class="mb-0 text-white">We are proud to have served a diverse range of clients, from small businesses to large corporations, in our commitment to accessibility.</p>
           </div>
         </div> 
-                 <div class="owl-carousel owl-theme client-slider1 owl-loaded owl-drag">
+                 {/* <div class="owl-carousel owl-theme client-slider1 owl-loaded owl-drag"> */}
                
                
-               
-            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)',transition: 'all 0s ease 0s', width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/16.png" class="img-fluid" alt="16" loading="lazy"/ ></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}><div class="item"><a><img src="/assets/images/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
+
+
+                 <OwlCarousel
+key={Math.random()}
+className="owl-carousel owl-theme client-slider1 owl-loaded owl-drag"
+loop
+autoplay={true}
+nav
+dots={false}
+margin={30}
+responsive= {{
+0: {
+items: 5,
+},
+600: {
+items: 5,
+},
+1000: {
+items: 5,
+},
+}}
+> 
+
+<div class="owl-stage-outer">
+   <div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)',transition: 'all 0s ease 0s', width: '3979px'}}><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+   <div class="item"><a><img src="/assets/images/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div>
+</div>
+<div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div>
+</div><div class="owl-item active" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/12.png" class="img-fluid" alt="12" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/16.png" class="img-fluid" alt="16" loading="lazy"/ ></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div>
+</div><div class="owl-item" style={{width: '135.751px', marginRight: '30px'}}>
+<div class="item"><a><img src="/assets/images/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div>
+</div></div></div>
+<div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+<div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
+
+         
+             </OwlCarousel>
+{/* </div> */}
          </div>
       </div>
-   </div>
+      </div>
+   
 </section>    
+
 
 
 <section class="sec faqs-sec">

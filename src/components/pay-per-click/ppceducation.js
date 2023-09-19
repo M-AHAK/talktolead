@@ -8,7 +8,7 @@ return(
                <div class="col-md-12">
                   <div class="grid2 b-access-pdfv">
                      <div class="b-access-pdfvImg1 wth50">
-                        <span class="manimg"><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
+                        <span class="manimg"><img src="/assets/images/man-online-training-module.webp" class="img-fluid" alt="Custom Training Modules for Employees"/> 
                         </span>
                      </div>
                      <div class="b-access-pdftext">
@@ -18,7 +18,7 @@ return(
                            <li><i class="mdi mdi-arrow-top-right"></i>Changing Market Dynamics</li>
                            <li><i class="mdi mdi-arrow-top-right"></i>Lead Generation Challenges</li> 
                         </ul>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                   </div>
                </div>
@@ -26,14 +26,14 @@ return(
          </div>
       </section>
       <section class="sec d-comp-sec pt-0">
-         <div class="triangle"><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
+         <div class="triangle"><img src="/assets/images/bg-clor.webp" class="img-fluid" alt="Employee Engagement Training Module"/></div>
          <div class="container">
             <div class="row">
                <div class="col-md-12">
                   <div class="breadcrumbNav-sec">
                      <nav style={{bsBreadcrumbDivider: "&#39&gt&#39"}} class="breadcrumbNav" aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                           <li class="breadcrumb-item"><a href="https://talk2lead.com/">Home</a></li>
+                           <li class="breadcrumb-item"><a href="/">Home</a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/">Learning Solutions </a></li>
                            <li class="breadcrumb-item"><a href="https://talk2lead.com/learning-solutions/corporate-elearning-solutions/">Corporate E-Learning Solutions</a></li>
                            <li class="breadcrumb-item active" aria-current="page">Training Modules for Employees</li>
@@ -48,12 +48,12 @@ return(
                   <div class="d-comp">
                      <div class="d-comptext1">
                         <p>We can provide valuable assistance to the education industry by offering expert solutions in pay-per-click (PPC) advertising. Our team specializes in creating customized PPC campaigns that target specific audiences within the education sector. By conducting thorough keyword research and implementing effective targeting strategies, we can help educational institutions reach the right prospects. Additionally, our expertise in crafting compelling ad copy and designing engaging landing pages ensures that the ads resonate with the audience and drive conversions.</p>
-                        <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+                        <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
                      </div>
                      <div class="d-compImgg1">
                         <div class="d-cmpImgbg text-end">
                            <div class="">
-                              <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
+                              <span><img src="/assets/images/custom-designed-right-img.webp" class="img-fluid" alt="Employee Engagement Training Module"/></span>  
                            </div>
                         </div>
                      </div>
@@ -95,14 +95,14 @@ return(
                         <p>We can help universities, colleges, and professional schools attract prospective students by creating targeted PPC campaigns that showcase their programs, campus life, and unique value propositions. </p> 
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
+                        <span><img src="/assets/images/onboarding-training.webp" class="img-fluid" alt="Corporate Onboarding Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="studyabroad">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
+                        <span><img src="/assets/images/compliance-training.svg" class="img-fluid" alt="Compliane Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                        <h3>Online Learning Platforms </h3>  
@@ -117,14 +117,14 @@ return(
 						<p>We can support K-12 schools in promoting their academic programs, extracurricular activities, and unique teaching approaches to parents looking for quality education for their children. </p> 
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
+                        <span><img src="/assets/images/product-or-service-training.webp" class="img-fluid" alt="Product or Service Training Solutions"/></span>
                      </div>
                   </div>
                </div>
                <div class="col-md-12 choose-acade-sec samenv1" id="training">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
+                        <span><img src="/assets/images/leadership-and-managerial-training.webp" class="img-fluid" alt="Leadership Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Test Preparation Services </h3> 
@@ -140,14 +140,14 @@ return(
                           
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
+                        <span><img src="/assets/images/quality-assurance-training.webp" class="img-fluid" alt="Quality Assurance Training"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="test">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Vocational and Skill-Based Training </h3> 
@@ -163,14 +163,14 @@ return(
                         <p>Companies offering educational software and tools can reach educators and schools with PPC campaigns showcasing the effectiveness and benefits of their products. </p> 
                      </div>
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
+                        <span><img src="/assets/images/functional-training-solutions.webp" class="img-fluid" alt="Functional Training Solutions"/></span>
                      </div>
                   </div>
                </div> 
                <div class="col-md-12 choose-acade-sec samenv1" id="publishers">
                   <div class="acc-impro-bg">
                      <div class="acc-impro-img">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
+                        <span><img src="/assets/images/technical-training-solutions.webp" class="img-fluid" alt="Technical Training Solutions"/></span>
                      </div>
                      <div class="acc-impro-text">
                         <h3>Educational Events and Workshops </h3>
@@ -182,7 +182,7 @@ return(
                 
             </div>
             <div class="col-md-12 text-center mt-4 singl-btn">
-               <div class="btnallTp1"> <a href="https://www.talk2lead.com/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
+               <div class="btnallTp1"> <a href="/contact-us/">Get in Touch <i class="mdi mdi-arrow-bottom-right"></i></a> </div>
             </div>
          </div>
           
@@ -199,23 +199,23 @@ return(
                   <div class="rightlist">
                      <ul>
                         <li>
-                           <div><span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/analysis.svg" class="img-fluid" alt="Analysis"/></span>Preparation and Strategy </div>
+                           <div><span><img src="/assets/images/analysis.svg" class="img-fluid" alt="Analysis"/></span>Preparation and Strategy </div>
                           Understand the client's specific objectives, such as increasing enrollment or program promotion. Identify relevant and high-performing keywords in the education sector to target the right audience.     
                         </li>
                         <li>
-                           <div><span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/design.svg" class="img-fluid" alt="Design"/></span> Content Creation and Targeting </div>
+                           <div><span><img src="/assets/images/design.svg" class="img-fluid" alt="Design"/></span> Content Creation and Targeting </div>
                            Craft compelling ad copy that highlights the institution's strengths and offerings. Define the target audience based on demographics, location, interests, and behavior.  
                         </li>
                         <li>
-                           <div><span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/development.svg" class="img-fluid" alt="Development"/></span> Campaign Management </div>
+                           <div><span><img src="/assets/images/development.svg" class="img-fluid" alt="Development"/></span> Campaign Management </div>
                            Manage bids to ensure optimal ad placement and budget allocation. Ensure landing pages are informative and optimized for conversions. 
                         </li>
                         <li>
-                           <div><span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/implementation.svg" class="img-fluid" alt="Implementation"/></span> Data Analysis and Optimization </div>
+                           <div><span><img src="/assets/images/implementation.svg" class="img-fluid" alt="Implementation"/></span> Data Analysis and Optimization </div>
                          Tracking and Analytics: Set up tracking tools to monitor clicks, conversions, and other key metrics. Conduct A/B tests to refine ad elements and improve campaign performance. 
                         </li>
                         <li>
-                           <div><span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Ongoing Monitoring and Reporting: </div>
+                           <div><span><img src="/assets/images/evaluation.svg" class="img-fluid" alt="Evaluation"/></span> Ongoing Monitoring and Reporting: </div>
                            Monitor campaigns for performance and refine keywords, targeting, and other aspects. Reporting: Provide regular reports with insights and recommendations for future optimizations.
                         </li>
                      </ul>
@@ -234,35 +234,35 @@ return(
                   </div>
                   <div class="specialbg">
                      <div class="special step1">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
+                        <span><img src="/assets/images/simple-and-seamless.svg" class="img-fluid" alt="Simple &amp; seamless experience" width="32" height="32"/></span>
                         <div class="tre3">Click-Through Rate (CTR): 3.5% </div>
                      </div>
                      <div class="special step2">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
+                        <span><img src="/assets/images/quick-turnaround-time.svg" class="img-fluid" alt="Quick turnaround time" width="34" height="34"/></span>
                         <div class="tre3">Conversion Rate: 5.8% </div>
                      </div>
                      <div class="special step3">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
+                        <span><img src="/assets/images/reliable.svg" class="img-fluid" alt="Reliable &amp; customer-centric" width="30" height="31"/></span>
                         <div class="tre3">Cost Per Click (CPC): $1.75 </div>
                      </div>
                      <div class="special step4">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
+                        <span><img src="/assets/images/technical.svg" class="img-fluid" alt="Technical competence" width="32" height="37"/></span>
                         <div class="tre3">Quality Score: 8/10  </div>
                      </div>
                      <div class="special step5">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
+                        <span><img src="/assets/images/customization.svg" class="img-fluid" alt="Customization support" width="26" height="26"/></span>
                         <div class="tre3">Return on Ad Spend (ROAS): 350% </div>
                      </div>
                      <div class="special step6">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
+                        <span><img src="/assets/images/served-global.svg" class="img-fluid" alt="Served global clients" width="30" height="30"/></span>
                         <div class="tre3">Ad Position: 2.2 </div>
                      </div>
                      <div class="special step7">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
+                        <span><img src="/assets/images/ten-year-of-experience.svg" class="img-fluid" alt="10+ Years of experience" width="46" height="24"/></span>
                         <div class="tre3">Ad Impressions: 50,000 </div>
                      </div>
                      <div class="special step8">
-                        <span><img src="./Targeted PPC Campaigns for the Education Sector by Talk2Lead_files/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
+                        <span><img src="/assets/images/affordable-solution.svg" class="img-fluid" alt="Affordable Solutions" width="16" height="27"/></span>
                         <div class="tre3">Time Spent on Site: 2 minutes 15 seconds </div>
                      </div>
                       
@@ -286,7 +286,7 @@ return(
                
 
                
-            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s', width: "3979px"}}><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img data-src="https://www.talk2lead.com/assets/images/our-clients/white-logo/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/12.png" class="img-fluid" alt="12" loading="lazy"/ ></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/16.png" class="img-fluid" alt="16" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="./Expert SEO Services Provider for Automobile Marketplace _ Talk2Lead_files/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
+            <div class="owl-stage-outer"><div class="owl-stage" style={{transform: 'translate3d(0px, 0px, 0px)', transition: 'all 0s ease 0s', width: "3979px"}}><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/1.png" class="img-fluid" alt="1" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/2.png" class="img-fluid" alt="2" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/3.png" class="img-fluid" alt="3" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/4.png" alt="4" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/5.png" alt="5" loading="lazy" class="img-fluid"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/6.png" class="img-fluid" alt="6" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img data-src="https://www.talk2lead.com/assets/images/our-clients/white-logo/7.png" class="img-fluid" alt="7" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/8.png" class="img-fluid" alt="8" loading="lazy"/></a></div></div><div class="owl-item active" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/9.png" class="img-fluid" alt="9" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/10.png" class="img-fluid" alt="10" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/11.png" class="img-fluid" alt="11" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/12.png" class="img-fluid" alt="12" loading="lazy"/ ></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/13.png" class="img-fluid" alt="13" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/14.png" class="img-fluid" alt="14" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/15.png" class="img-fluid" alt="15" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/16.png" class="img-fluid" alt="16" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/17.png" class="img-fluid" alt="17" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/18.png" class="img-fluid" alt="18" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/19.png" class="img-fluid" alt="19" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/20.png" class="img-fluid" alt="20 university" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/21.png" class="img-fluid" alt="21" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/22.png" class="img-fluid" alt="22" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/23.png" class="img-fluid" alt="23" loading="lazy"/></a></div></div><div class="owl-item" style={{width: '135.751px', marginRight:' 30px'}}><div class="item"><a><img src="/assets/images/24.png" class="img-fluid" alt="24" loading="lazy"/></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div> 
          </div>
       </div>
    </div>
